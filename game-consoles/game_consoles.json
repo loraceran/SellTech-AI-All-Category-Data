@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "CON-0001",
+    "manufacturer": "Nintendo",
+    "model": "Nintendo Switch OLED Model",
+    "identity": {
+      "family": "Nintendo Switch",
+      "platform": "",
+      "launchYear": 2021,
+      "segment": "Hybrid Console",
+      "status": "Retail",
+      "notes": "OLED display, redesigned kickstand and LAN dock"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "64 GB + microSD",
+      "minStorageGb": 64,
+      "maxStorageGb": 64,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "Nintendo Switch||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.nintendo.com/us/gaming-systems/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0002",
+    "manufacturer": "Sony",
+    "model": "PlayStation 5 Disc Edition (2021 chassis revision)",
+    "identity": {
+      "family": "PlayStation 5",
+      "platform": "",
+      "launchYear": 2021,
+      "segment": "Home Console",
+      "status": "Retail",
+      "notes": "2021 physical chassis revision"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "825 GB SSD",
+      "minStorageGb": 825,
+      "maxStorageGb": 825,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": true,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "PlayStation 5||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.playstation.com/en-us/ps5/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0003",
+    "manufacturer": "Sony",
+    "model": "PlayStation 5 Digital Edition (2021 chassis revision)",
+    "identity": {
+      "family": "PlayStation 5",
+      "platform": "",
+      "launchYear": 2021,
+      "segment": "Home Console",
+      "status": "Retail",
+      "notes": "2021 digital chassis revision"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "825 GB SSD",
+      "minStorageGb": 825,
+      "maxStorageGb": 825,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": false,
+      "digitalOnlySignal": true,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "PlayStation 5||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.playstation.com/en-us/ps5/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0004",
+    "manufacturer": "Valve",
+    "model": "Steam Deck LCD 64GB",
+    "identity": {
+      "family": "Steam Deck",
+      "platform": "",
+      "launchYear": 2022,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Base launch model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "64 GB eMMC + microSD",
+      "minStorageGb": 64,
+      "maxStorageGb": 64,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "Steam Deck||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.steamdeck.com/en/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0005",
+    "manufacturer": "Valve",
+    "model": "Steam Deck LCD 256GB",
+    "identity": {
+      "family": "Steam Deck",
+      "platform": "",
+      "launchYear": 2022,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Mid launch model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "256 GB NVMe + microSD",
+      "minStorageGb": 256,
+      "maxStorageGb": 256,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "Steam Deck||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.steamdeck.com/en/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0006",
+    "manufacturer": "Valve",
+    "model": "Steam Deck LCD 512GB",
+    "identity": {
+      "family": "Steam Deck",
+      "platform": "",
+      "launchYear": 2022,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "High launch model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "512 GB NVMe + microSD",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "Steam Deck||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.steamdeck.com/en/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0007",
+    "manufacturer": "Sony",
+    "model": "PlayStation 5 Slim Disc Edition",
+    "identity": {
+      "family": "PlayStation 5 Slim",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Home Console",
+      "status": "Retail",
+      "notes": "Smaller modular-disc-drive PS5"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "1 TB SSD",
+      "minStorageGb": 1024,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": true,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": true,
+      "compatibilityKey": "PlayStation 5 Slim||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.playstation.com/en-us/ps5/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0008",
+    "manufacturer": "Sony",
+    "model": "PlayStation 5 Slim Digital Edition",
+    "identity": {
+      "family": "PlayStation 5 Slim",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Home Console",
+      "status": "Retail",
+      "notes": "Slim digital model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "1 TB SSD",
+      "minStorageGb": 1024,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": false,
+      "digitalOnlySignal": true,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": true,
+      "compatibilityKey": "PlayStation 5 Slim||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.playstation.com/en-us/ps5/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0009",
+    "manufacturer": "Valve",
+    "model": "Steam Deck OLED 512GB",
+    "identity": {
+      "family": "Steam Deck OLED",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "OLED refresh with larger battery"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "512 GB NVMe + microSD",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "Steam Deck OLED||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.steamdeck.com/en/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0010",
+    "manufacturer": "Valve",
+    "model": "Steam Deck OLED 1TB",
+    "identity": {
+      "family": "Steam Deck OLED",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Top standard OLED model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "1 TB NVMe + microSD",
+      "minStorageGb": 1024,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": true,
+      "compatibilityKey": "Steam Deck OLED||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.steamdeck.com/en/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0011",
+    "manufacturer": "ASUS",
+    "model": "ROG Ally Z1",
+    "identity": {
+      "family": "ROG Ally",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Lower-tier Z1 model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "512 GB NVMe + microSD",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "ROG Ally||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/gaming-handhelds/rog-ally-series/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0012",
+    "manufacturer": "ASUS",
+    "model": "ROG Ally Z1 Extreme",
+    "identity": {
+      "family": "ROG Ally",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Higher-performance launch Ally"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "512 GB NVMe + microSD",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "ROG Ally||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/gaming-handhelds/rog-ally-series/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0013",
+    "manufacturer": "Lenovo",
+    "model": "Legion Go",
+    "identity": {
+      "family": "Legion Go",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Detachable controllers and large display"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "512 GB–1 TB NVMe + microSD",
+      "minStorageGb": 512,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": true,
+      "compatibilityKey": "Legion Go||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/legiongo/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0014",
+    "manufacturer": "Microsoft",
+    "model": "Xbox Series S 1TB Carbon Black",
+    "identity": {
+      "family": "Xbox Series S",
+      "platform": "",
+      "launchYear": 2023,
+      "segment": "Budget Home Console",
+      "status": "Retail",
+      "notes": "Higher-capacity Series S"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "1 TB SSD",
+      "minStorageGb": 1024,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": true,
+      "compatibilityKey": "Xbox Series S||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.xbox.com/en-US/consoles"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0015",
+    "manufacturer": "Sony",
+    "model": "PlayStation 5 Pro",
+    "identity": {
+      "family": "PlayStation 5 Pro",
+      "platform": "",
+      "launchYear": 2024,
+      "segment": "Premium Home Console",
+      "status": "Retail",
+      "notes": "Enhanced GPU/PSSR, digital by default"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "2 TB SSD",
+      "minStorageGb": 2048,
+      "maxStorageGb": 2048,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": false,
+      "digitalOnlySignal": true,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": true,
+      "largeStorageClass": true,
+      "compatibilityKey": "PlayStation 5 Pro||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.playstation.com/en-us/ps5/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0016",
+    "manufacturer": "ASUS",
+    "model": "ROG Ally X",
+    "identity": {
+      "family": "ROG Ally",
+      "platform": "",
+      "launchYear": 2024,
+      "segment": "Premium Handheld",
+      "status": "Retail",
+      "notes": "24 GB RAM and larger battery"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "1 TB NVMe + microSD",
+      "minStorageGb": 1024,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": true,
+      "largeStorageClass": true,
+      "compatibilityKey": "ROG Ally||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/gaming-handhelds/rog-ally-series/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0017",
+    "manufacturer": "MSI",
+    "model": "Claw A1M",
+    "identity": {
+      "family": "MSI Claw",
+      "platform": "",
+      "launchYear": 2024,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Intel Core Ultra handheld"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "512 GB–1 TB NVMe + microSD",
+      "minStorageGb": 512,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": true,
+      "compatibilityKey": "MSI Claw||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.msi.com/Handheld"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0018",
+    "manufacturer": "Microsoft",
+    "model": "Xbox Series X 2TB Galaxy Black Special Edition",
+    "identity": {
+      "family": "Xbox Series X",
+      "platform": "",
+      "launchYear": 2024,
+      "segment": "Premium Home Console",
+      "status": "Retail",
+      "notes": "2 TB Series X refresh"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "2 TB SSD",
+      "minStorageGb": 2048,
+      "maxStorageGb": 2048,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": true,
+      "largeStorageClass": true,
+      "compatibilityKey": "Xbox Series X||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.xbox.com/en-US/consoles"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0019",
+    "manufacturer": "Microsoft",
+    "model": "Xbox Series X 1TB Digital Edition",
+    "identity": {
+      "family": "Xbox Series X",
+      "platform": "",
+      "launchYear": 2024,
+      "segment": "Home Console",
+      "status": "Retail",
+      "notes": "Disc-less Series X variant"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "1 TB SSD",
+      "minStorageGb": 1024,
+      "maxStorageGb": 1024,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": false,
+      "homeConsole": true,
+      "portable": false,
+      "discCapable": true,
+      "digitalOnlySignal": true,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": true,
+      "compatibilityKey": "Xbox Series X||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.xbox.com/en-US/consoles"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0020",
+    "manufacturer": "Nintendo",
+    "model": "Nintendo Switch 2",
+    "identity": {
+      "family": "Nintendo Switch 2",
+      "platform": "",
+      "launchYear": 2025,
+      "segment": "Hybrid Console",
+      "status": "Retail",
+      "notes": "Successor Nintendo hybrid platform"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "Internal storage + microSD Express",
+      "minStorageGb": null,
+      "maxStorageGb": null,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "Nintendo Switch 2||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.nintendo.com/us/gaming-systems/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0021",
+    "manufacturer": "ASUS / Xbox",
+    "model": "ROG Xbox Ally",
+    "identity": {
+      "family": "ROG Xbox Ally",
+      "platform": "",
+      "launchYear": 2025,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Xbox-branded handheld generation"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "NVMe SSD",
+      "minStorageGb": null,
+      "maxStorageGb": null,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "ROG Xbox Ally||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/gaming-handhelds/rog-ally-series/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0022",
+    "manufacturer": "ASUS / Xbox",
+    "model": "ROG Xbox Ally X",
+    "identity": {
+      "family": "ROG Xbox Ally",
+      "platform": "",
+      "launchYear": 2025,
+      "segment": "Premium Handheld",
+      "status": "Retail",
+      "notes": "Ryzen AI Z2 Extreme class model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "NVMe SSD",
+      "minStorageGb": null,
+      "maxStorageGb": null,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": true,
+      "largeStorageClass": false,
+      "compatibilityKey": "ROG Xbox Ally||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/gaming-handhelds/rog-ally-series/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0023",
+    "manufacturer": "MSI",
+    "model": "Claw 8 AI+",
+    "identity": {
+      "family": "MSI Claw",
+      "platform": "",
+      "launchYear": 2025,
+      "segment": "Premium Handheld",
+      "status": "Retail",
+      "notes": "Lunar Lake generation"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "NVMe SSD",
+      "minStorageGb": null,
+      "maxStorageGb": null,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": true,
+      "largeStorageClass": false,
+      "compatibilityKey": "MSI Claw||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.msi.com/Handheld"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0024",
+    "manufacturer": "Lenovo",
+    "model": "Legion Go S",
+    "identity": {
+      "family": "Legion Go",
+      "platform": "",
+      "launchYear": 2025,
+      "segment": "Handheld Gaming",
+      "status": "Retail",
+      "notes": "Simplified integrated-controller Legion Go"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "NVMe SSD",
+      "minStorageGb": null,
+      "maxStorageGb": null,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": false,
+      "pcLikePlatform": true
+    },
+    "derivedBase": {
+      "highEndClass": false,
+      "largeStorageClass": false,
+      "compatibilityKey": "Legion Go||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/legiongo/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "CON-0025",
+    "manufacturer": "ASUS / Xbox",
+    "model": "ROG Xbox Ally X20 (2026)",
+    "identity": {
+      "family": "ROG Xbox Ally",
+      "platform": "",
+      "launchYear": 2026,
+      "segment": "Premium Handheld",
+      "status": "Current",
+      "notes": "Ryzen AI Z2 Extreme, OLED 2026 model"
+    },
+    "technical": {
+      "cpuSoc": "",
+      "gpuGraphics": "",
+      "storageText": "NVMe SSD",
+      "minStorageGb": null,
+      "maxStorageGb": null,
+      "targetResolutionText": "",
+      "normalizedTargetResolution": "",
+      "displayOutput": ""
+    },
+    "capabilities": {
+      "handheld": true,
+      "homeConsole": false,
+      "portable": true,
+      "discCapable": false,
+      "digitalOnlySignal": false,
+      "vrReadySignal": false,
+      "subscriptionEcosystemSignal": true,
+      "pcLikePlatform": false
+    },
+    "derivedBase": {
+      "highEndClass": true,
+      "largeStorageClass": false,
+      "compatibilityKey": "ROG Xbox Ally||"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/gaming-handhelds/rog-ally-series/"
+      ],
+      "sourceScope": "Game Console List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  }
+]
