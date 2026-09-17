@@ -1,0 +1,4786 @@
+[
+  {
+    "id": "PHN-0001",
+    "manufacturer": "Apple",
+    "model": "iPhone 13 mini",
+    "identity": {
+      "family": "iPhone 13",
+      "launchYear": 2021,
+      "segment": "Compact Flagship",
+      "status": "Retail",
+      "notes": "2021 compact flagship"
+    },
+    "technical": {
+      "displayText": "5.4 OLED",
+      "displaySizeInches": 5.4,
+      "refreshRateHz": null,
+      "soc": "A15 Bionic",
+      "ramText": "4 GB class",
+      "minRamGb": 4,
+      "maxRamGb": 4,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual 12 MP",
+      "mainCameraMpExplicit": 12.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 13|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0002",
+    "manufacturer": "Apple",
+    "model": "iPhone 13",
+    "identity": {
+      "family": "iPhone 13",
+      "launchYear": 2021,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Base iPhone 13"
+    },
+    "technical": {
+      "displayText": "6.1 OLED",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": null,
+      "soc": "A15 Bionic",
+      "ramText": "4 GB class",
+      "minRamGb": 4,
+      "maxRamGb": 4,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual 12 MP",
+      "mainCameraMpExplicit": 12.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 13|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0003",
+    "manufacturer": "Apple",
+    "model": "iPhone 13 Pro",
+    "identity": {
+      "family": "iPhone 13 Pro",
+      "launchYear": 2021,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "ProMotion generation"
+    },
+    "technical": {
+      "displayText": "6.1 OLED 120 Hz",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": 120,
+      "soc": "A15 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple 12 MP + LiDAR",
+      "mainCameraMpExplicit": 12.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 13 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0004",
+    "manufacturer": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "identity": {
+      "family": "iPhone 13 Pro",
+      "launchYear": 2021,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Large Pro"
+    },
+    "technical": {
+      "displayText": "6.7 OLED 120 Hz",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": 120,
+      "soc": "A15 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple 12 MP + LiDAR",
+      "mainCameraMpExplicit": 12.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 13 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0005",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 9",
+    "identity": {
+      "family": "OnePlus 9",
+      "launchYear": 2021,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "2021 flagship"
+    },
+    "technical": {
+      "displayText": "6.55 AMOLED 120 Hz",
+      "displaySizeInches": 6.55,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 888",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "OnePlus 9|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/phone"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0006",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 9 Pro",
+    "identity": {
+      "family": "OnePlus 9",
+      "launchYear": 2021,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "9 Pro"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 888",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Hasselblad quad",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "OnePlus 9|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/phone"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0007",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 11",
+    "identity": {
+      "family": "Xiaomi 11",
+      "launchYear": 2021,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "2021 Mi flagship"
+    },
+    "technical": {
+      "displayText": "6.81 AMOLED 120 Hz",
+      "displaySizeInches": 6.81,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 888",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "108 MP triple",
+      "mainCameraMpExplicit": 108.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Xiaomi 11|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0008",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 11T Pro",
+    "identity": {
+      "family": "Xiaomi 11T",
+      "launchYear": 2021,
+      "segment": "Upper Flagship",
+      "status": "Retail",
+      "notes": "120W charging generation"
+    },
+    "technical": {
+      "displayText": "6.67 AMOLED 120 Hz",
+      "displaySizeInches": 6.67,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 888",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "108 MP triple",
+      "mainCameraMpExplicit": 108.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Xiaomi 11T|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0009",
+    "manufacturer": "OPPO",
+    "model": "Find X3 Pro",
+    "identity": {
+      "family": "Find X",
+      "launchYear": 2021,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "2021 Find flagship"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 888",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 256,
+      "cameraSummary": "Quad rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Find X|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oppo.com/en/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0010",
+    "manufacturer": "Motorola",
+    "model": "Edge 20 Pro",
+    "identity": {
+      "family": "Edge",
+      "launchYear": 2021,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "2021 Edge flagship"
+    },
+    "technical": {
+      "displayText": "6.7 OLED 144 Hz",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": 144,
+      "soc": "Snapdragon 870",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 256,
+      "cameraSummary": "108 MP triple",
+      "mainCameraMpExplicit": 108.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": false,
+      "premiumClass": false,
+      "upperMidrangeClass": true,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Edge|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.motorola.com/us/smartphones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0011",
+    "manufacturer": "Apple",
+    "model": "iPhone SE (3rd generation)",
+    "identity": {
+      "family": "iPhone SE",
+      "launchYear": 2022,
+      "segment": "Budget / Compact",
+      "status": "Retail",
+      "notes": "A15 SE"
+    },
+    "technical": {
+      "displayText": "4.7 LCD",
+      "displaySizeInches": 4.7,
+      "refreshRateHz": null,
+      "soc": "A15 Bionic",
+      "ramText": "4 GB class",
+      "minRamGb": 4,
+      "maxRamGb": 4,
+      "storageText": "64–256 GB",
+      "minStorageGb": 64,
+      "maxStorageGb": 256,
+      "cameraSummary": "Single 12 MP",
+      "mainCameraMpExplicit": 12.0
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": false,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": true,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone SE|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0012",
+    "manufacturer": "Apple",
+    "model": "iPhone 14",
+    "identity": {
+      "family": "iPhone 14",
+      "launchYear": 2022,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Base 14"
+    },
+    "technical": {
+      "displayText": "6.1 OLED",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": null,
+      "soc": "A15 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual 12 MP",
+      "mainCameraMpExplicit": 12.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 14|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0013",
+    "manufacturer": "Apple",
+    "model": "iPhone 14 Plus",
+    "identity": {
+      "family": "iPhone 14",
+      "launchYear": 2022,
+      "segment": "Large Flagship",
+      "status": "Retail",
+      "notes": "Large non-Pro"
+    },
+    "technical": {
+      "displayText": "6.7 OLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "A15 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual 12 MP",
+      "mainCameraMpExplicit": 12.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 14|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0014",
+    "manufacturer": "Apple",
+    "model": "iPhone 14 Pro",
+    "identity": {
+      "family": "iPhone 14 Pro",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Dynamic Island debut"
+    },
+    "technical": {
+      "displayText": "6.1 OLED 120 Hz",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": 120,
+      "soc": "A16 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "48 MP + tele + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 14 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0015",
+    "manufacturer": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "identity": {
+      "family": "iPhone 14 Pro",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Large Pro"
+    },
+    "technical": {
+      "displayText": "6.7 OLED 120 Hz",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": 120,
+      "soc": "A16 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "48 MP + tele + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 14 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0016",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S22",
+    "identity": {
+      "family": "Galaxy S22",
+      "launchYear": 2022,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Compact S22"
+    },
+    "technical": {
+      "displayText": "6.1 AMOLED 120 Hz",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 1 / Exynos 2200",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S22|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0017",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S22+",
+    "identity": {
+      "family": "Galaxy S22",
+      "launchYear": 2022,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Large S22"
+    },
+    "technical": {
+      "displayText": "6.6 AMOLED 120 Hz",
+      "displaySizeInches": 6.6,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 1 / Exynos 2200",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S22|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0018",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S22 Ultra",
+    "identity": {
+      "family": "Galaxy S22",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "S Pen integrated"
+    },
+    "technical": {
+      "displayText": "6.8 AMOLED 120 Hz",
+      "displaySizeInches": 6.8,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 1 / Exynos 2200",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "108 MP quad",
+      "mainCameraMpExplicit": 108.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Galaxy S22|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0019",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Z Fold4",
+    "identity": {
+      "family": "Galaxy Z Fold",
+      "launchYear": 2022,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Fourth-gen Fold"
+    },
+    "technical": {
+      "displayText": "7.6 foldable AMOLED",
+      "displaySizeInches": 7.6,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8+ Gen 1",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy Z Fold|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0020",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Z Flip4",
+    "identity": {
+      "family": "Galaxy Z Flip",
+      "launchYear": 2022,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Fourth-gen Flip"
+    },
+    "technical": {
+      "displayText": "6.7 foldable AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8+ Gen 1",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy Z Flip|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0021",
+    "manufacturer": "Google",
+    "model": "Pixel 7",
+    "identity": {
+      "family": "Pixel 7",
+      "launchYear": 2022,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Pixel 7"
+    },
+    "technical": {
+      "displayText": "6.3 OLED 90 Hz",
+      "displaySizeInches": 6.3,
+      "refreshRateHz": 90,
+      "soc": "Tensor G2",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Pixel 7|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0022",
+    "manufacturer": "Google",
+    "model": "Pixel 7 Pro",
+    "identity": {
+      "family": "Pixel 7",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Pixel 7 Pro"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO OLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Tensor G2",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Pixel 7|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0023",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 10 Pro",
+    "identity": {
+      "family": "OnePlus 10",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "10 Pro"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Hasselblad triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "OnePlus 10|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/phone"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0024",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 12",
+    "identity": {
+      "family": "Xiaomi 12",
+      "launchYear": 2022,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Compact flagship"
+    },
+    "technical": {
+      "displayText": "6.28 AMOLED 120 Hz",
+      "displaySizeInches": 6.28,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Xiaomi 12|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0025",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 12 Pro",
+    "identity": {
+      "family": "Xiaomi 12",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "12 Pro"
+    },
+    "technical": {
+      "displayText": "6.73 LTPO AMOLED",
+      "displaySizeInches": 6.73,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Triple 50 MP",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Xiaomi 12|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0026",
+    "manufacturer": "HONOR",
+    "model": "Magic4 Pro",
+    "identity": {
+      "family": "Magic",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Magic4 global flagship"
+    },
+    "technical": {
+      "displayText": "6.81 LTPO OLED",
+      "displaySizeInches": 6.81,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Triple flagship cameras",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Magic|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0027",
+    "manufacturer": "OPPO",
+    "model": "Find X5 Pro",
+    "identity": {
+      "family": "Find X",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Find X5 Pro"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 256,
+      "cameraSummary": "Hasselblad triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Find X|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oppo.com/en/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0028",
+    "manufacturer": "Nothing",
+    "model": "Phone (1)",
+    "identity": {
+      "family": "Nothing Phone",
+      "launchYear": 2022,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "Glyph interface debut"
+    },
+    "technical": {
+      "displayText": "6.55 OLED 120 Hz",
+      "displaySizeInches": 6.55,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 778G+",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Dual 50 MP",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": false,
+      "premiumClass": false,
+      "upperMidrangeClass": true,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Nothing Phone|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://nothing.tech/pages/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0029",
+    "manufacturer": "Motorola",
+    "model": "Edge 30 Ultra",
+    "identity": {
+      "family": "Edge",
+      "launchYear": 2022,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "200 MP Motorola flagship"
+    },
+    "technical": {
+      "displayText": "6.67 OLED 144 Hz",
+      "displaySizeInches": 6.67,
+      "refreshRateHz": 144,
+      "soc": "Snapdragon 8+ Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "200 MP triple",
+      "mainCameraMpExplicit": 200.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Edge|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.motorola.com/us/smartphones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0030",
+    "manufacturer": "Apple",
+    "model": "iPhone 15",
+    "identity": {
+      "family": "iPhone 15",
+      "launchYear": 2023,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "USB-C base iPhone"
+    },
+    "technical": {
+      "displayText": "6.1 OLED",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": null,
+      "soc": "A16 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "48 MP + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 15|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0031",
+    "manufacturer": "Apple",
+    "model": "iPhone 15 Plus",
+    "identity": {
+      "family": "iPhone 15",
+      "launchYear": 2023,
+      "segment": "Large Flagship",
+      "status": "Retail",
+      "notes": "Large base 15"
+    },
+    "technical": {
+      "displayText": "6.7 OLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "A16 Bionic",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "48 MP + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 15|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0032",
+    "manufacturer": "Apple",
+    "model": "iPhone 15 Pro",
+    "identity": {
+      "family": "iPhone 15 Pro",
+      "launchYear": 2023,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Titanium / A17 Pro"
+    },
+    "technical": {
+      "displayText": "6.1 OLED 120 Hz",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": 120,
+      "soc": "A17 Pro",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "48 MP + 3x tele + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 15 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0033",
+    "manufacturer": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "identity": {
+      "family": "iPhone 15 Pro",
+      "launchYear": 2023,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "5x tetraprism"
+    },
+    "technical": {
+      "displayText": "6.7 OLED 120 Hz",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": 120,
+      "soc": "A17 Pro",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "48 MP + 5x tele + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 15 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0034",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S23",
+    "identity": {
+      "family": "Galaxy S23",
+      "launchYear": 2023,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Base S23"
+    },
+    "technical": {
+      "displayText": "6.1 AMOLED 120 Hz",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S23|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0035",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S23+",
+    "identity": {
+      "family": "Galaxy S23",
+      "launchYear": 2023,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Large S23"
+    },
+    "technical": {
+      "displayText": "6.6 AMOLED 120 Hz",
+      "displaySizeInches": 6.6,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S23|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0036",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S23 Ultra",
+    "identity": {
+      "family": "Galaxy S23",
+      "launchYear": 2023,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "200 MP Ultra"
+    },
+    "technical": {
+      "displayText": "6.8 AMOLED 120 Hz",
+      "displaySizeInches": 6.8,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "200 MP quad",
+      "mainCameraMpExplicit": 200.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Galaxy S23|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0037",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Z Fold5",
+    "identity": {
+      "family": "Galaxy Z Fold",
+      "launchYear": 2023,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Flat hinge generation"
+    },
+    "technical": {
+      "displayText": "7.6 foldable AMOLED",
+      "displaySizeInches": 7.6,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy Z Fold|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0038",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Z Flip5",
+    "identity": {
+      "family": "Galaxy Z Flip",
+      "launchYear": 2023,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Larger cover screen"
+    },
+    "technical": {
+      "displayText": "6.7 foldable AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy Z Flip|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0039",
+    "manufacturer": "Google",
+    "model": "Pixel 8",
+    "identity": {
+      "family": "Pixel 8",
+      "launchYear": 2023,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Pixel 8"
+    },
+    "technical": {
+      "displayText": "6.2 OLED 120 Hz",
+      "displaySizeInches": 6.2,
+      "refreshRateHz": 120,
+      "soc": "Tensor G3",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Pixel 8|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0040",
+    "manufacturer": "Google",
+    "model": "Pixel 8 Pro",
+    "identity": {
+      "family": "Pixel 8",
+      "launchYear": 2023,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Pixel 8 Pro"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO OLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Tensor G3",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Pixel 8|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0041",
+    "manufacturer": "Google",
+    "model": "Pixel Fold",
+    "identity": {
+      "family": "Pixel Fold",
+      "launchYear": 2023,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Google first foldable"
+    },
+    "technical": {
+      "displayText": "7.6 foldable OLED",
+      "displaySizeInches": 7.6,
+      "refreshRateHz": null,
+      "soc": "Tensor G2",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Pixel Fold|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0042",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 11",
+    "identity": {
+      "family": "OnePlus 11",
+      "launchYear": 2023,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "OnePlus 11"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 2",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Hasselblad triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "OnePlus 11|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/phone"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0043",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Open",
+    "identity": {
+      "family": "OnePlus Open",
+      "launchYear": 2023,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "First OnePlus foldable"
+    },
+    "technical": {
+      "displayText": "7.82 foldable AMOLED",
+      "displaySizeInches": 7.82,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 2",
+      "ramText": "16 GB",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "512 GB",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "cameraSummary": "Hasselblad triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "OnePlus Open|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/phone"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0044",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 13",
+    "identity": {
+      "family": "Xiaomi 13",
+      "launchYear": 2023,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Leica generation"
+    },
+    "technical": {
+      "displayText": "6.36 OLED 120 Hz",
+      "displaySizeInches": 6.36,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 2",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Leica triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Xiaomi 13|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0045",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 13 Ultra",
+    "identity": {
+      "family": "Xiaomi 13",
+      "launchYear": 2023,
+      "segment": "Camera Flagship",
+      "status": "Retail",
+      "notes": "Ultra camera flagship"
+    },
+    "technical": {
+      "displayText": "6.73 LTPO OLED",
+      "displaySizeInches": 6.73,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 2",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Leica quad",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Xiaomi 13|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0046",
+    "manufacturer": "HONOR",
+    "model": "Magic5 Pro",
+    "identity": {
+      "family": "Magic",
+      "launchYear": 2023,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Magic5 Pro"
+    },
+    "technical": {
+      "displayText": "6.81 LTPO OLED",
+      "displaySizeInches": 6.81,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 2",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "512 GB",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "cameraSummary": "Triple 50 MP",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Magic|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0047",
+    "manufacturer": "HONOR",
+    "model": "Magic V2",
+    "identity": {
+      "family": "Magic V",
+      "launchYear": 2023,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Ultra-thin foldable"
+    },
+    "technical": {
+      "displayText": "7.92 foldable OLED",
+      "displaySizeInches": 7.92,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 2",
+      "ramText": "16 GB",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Magic V|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0048",
+    "manufacturer": "OPPO",
+    "model": "Find N2 Flip",
+    "identity": {
+      "family": "Find N",
+      "launchYear": 2023,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Global clamshell foldable"
+    },
+    "technical": {
+      "displayText": "6.8 foldable AMOLED",
+      "displaySizeInches": 6.8,
+      "refreshRateHz": null,
+      "soc": "Dimensity 9000+",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Find N|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oppo.com/en/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0049",
+    "manufacturer": "Nothing",
+    "model": "Phone (2)",
+    "identity": {
+      "family": "Nothing Phone",
+      "launchYear": 2023,
+      "segment": "Upper Flagship",
+      "status": "Retail",
+      "notes": "Second-generation Glyph"
+    },
+    "technical": {
+      "displayText": "6.7 LTPO OLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8+ Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual 50 MP",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Nothing Phone|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://nothing.tech/pages/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0050",
+    "manufacturer": "Motorola",
+    "model": "Razr 40 Ultra / Razr+",
+    "identity": {
+      "family": "Razr",
+      "launchYear": 2023,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Large cover display"
+    },
+    "technical": {
+      "displayText": "6.9 foldable OLED",
+      "displaySizeInches": 6.9,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8+ Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Razr|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.motorola.com/us/smartphones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0051",
+    "manufacturer": "Apple",
+    "model": "iPhone 16",
+    "identity": {
+      "family": "iPhone 16",
+      "launchYear": 2024,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Camera Control generation"
+    },
+    "technical": {
+      "displayText": "6.1 OLED",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": null,
+      "soc": "A18",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "48 MP + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 16|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0052",
+    "manufacturer": "Apple",
+    "model": "iPhone 16 Plus",
+    "identity": {
+      "family": "iPhone 16",
+      "launchYear": 2024,
+      "segment": "Large Flagship",
+      "status": "Retail",
+      "notes": "Large base 16"
+    },
+    "technical": {
+      "displayText": "6.7 OLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "A18",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "48 MP + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 16|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0053",
+    "manufacturer": "Apple",
+    "model": "iPhone 16 Pro",
+    "identity": {
+      "family": "iPhone 16 Pro",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "6.3-inch Pro"
+    },
+    "technical": {
+      "displayText": "6.3 OLED 120 Hz",
+      "displaySizeInches": 6.3,
+      "refreshRateHz": 120,
+      "soc": "A18 Pro",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "48 MP + 5x tele + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 16 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0054",
+    "manufacturer": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "identity": {
+      "family": "iPhone 16 Pro",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "6.9-inch Pro Max"
+    },
+    "technical": {
+      "displayText": "6.9 OLED 120 Hz",
+      "displaySizeInches": 6.9,
+      "refreshRateHz": 120,
+      "soc": "A18 Pro",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "48 MP + 5x tele + ultra-wide",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 16 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0055",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S24",
+    "identity": {
+      "family": "Galaxy S24",
+      "launchYear": 2024,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Galaxy AI generation"
+    },
+    "technical": {
+      "displayText": "6.2 AMOLED 120 Hz",
+      "displaySizeInches": 6.2,
+      "refreshRateHz": 120,
+      "soc": "Exynos 2400 / Snapdragon 8 Gen 3",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S24|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0056",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S24+",
+    "identity": {
+      "family": "Galaxy S24",
+      "launchYear": 2024,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Large S24"
+    },
+    "technical": {
+      "displayText": "6.7 AMOLED 120 Hz",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": 120,
+      "soc": "Exynos 2400 / Snapdragon 8 Gen 3",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S24|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0057",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "identity": {
+      "family": "Galaxy S24",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Titanium Ultra"
+    },
+    "technical": {
+      "displayText": "6.8 AMOLED 120 Hz",
+      "displaySizeInches": 6.8,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 3 for Galaxy",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "200 MP quad",
+      "mainCameraMpExplicit": 200.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Galaxy S24|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0058",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Z Fold6",
+    "identity": {
+      "family": "Galaxy Z Fold",
+      "launchYear": 2024,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Sixth-gen Fold"
+    },
+    "technical": {
+      "displayText": "7.6 foldable AMOLED",
+      "displaySizeInches": 7.6,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 3 for Galaxy",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy Z Fold|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0059",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Z Flip6",
+    "identity": {
+      "family": "Galaxy Z Flip",
+      "launchYear": 2024,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "50 MP Flip generation"
+    },
+    "technical": {
+      "displayText": "6.7 foldable AMOLED",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 3 for Galaxy",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "50 MP dual",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy Z Flip|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0060",
+    "manufacturer": "Google",
+    "model": "Pixel 9",
+    "identity": {
+      "family": "Pixel 9",
+      "launchYear": 2024,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Pixel 9"
+    },
+    "technical": {
+      "displayText": "6.3 OLED 120 Hz",
+      "displaySizeInches": 6.3,
+      "refreshRateHz": 120,
+      "soc": "Tensor G4",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Pixel 9|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0061",
+    "manufacturer": "Google",
+    "model": "Pixel 9 Pro",
+    "identity": {
+      "family": "Pixel 9",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Compact Pro"
+    },
+    "technical": {
+      "displayText": "6.3 LTPO OLED",
+      "displaySizeInches": 6.3,
+      "refreshRateHz": null,
+      "soc": "Tensor G4",
+      "ramText": "16 GB",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Pixel 9|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0062",
+    "manufacturer": "Google",
+    "model": "Pixel 9 Pro XL",
+    "identity": {
+      "family": "Pixel 9",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Large Pro"
+    },
+    "technical": {
+      "displayText": "6.8 LTPO OLED",
+      "displaySizeInches": 6.8,
+      "refreshRateHz": null,
+      "soc": "Tensor G4",
+      "ramText": "16 GB",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Pixel 9|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0063",
+    "manufacturer": "Google",
+    "model": "Pixel 9 Pro Fold",
+    "identity": {
+      "family": "Pixel Fold",
+      "launchYear": 2024,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "Second Google foldable"
+    },
+    "technical": {
+      "displayText": "8-inch foldable OLED",
+      "displaySizeInches": 8.0,
+      "refreshRateHz": null,
+      "soc": "Tensor G4",
+      "ramText": "16 GB",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Pixel Fold|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0064",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 12",
+    "identity": {
+      "family": "OnePlus 12",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "OnePlus 12"
+    },
+    "technical": {
+      "displayText": "6.82 LTPO AMOLED",
+      "displaySizeInches": 6.82,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 3",
+      "ramText": "12–24 GB",
+      "minRamGb": 12,
+      "maxRamGb": 24,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Hasselblad triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "OnePlus 12|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/phone"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0065",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 14",
+    "identity": {
+      "family": "Xiaomi 14",
+      "launchYear": 2024,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Compact 14"
+    },
+    "technical": {
+      "displayText": "6.36 LTPO OLED",
+      "displaySizeInches": 6.36,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 3",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Leica triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Xiaomi 14|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0066",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 14 Ultra",
+    "identity": {
+      "family": "Xiaomi 14",
+      "launchYear": 2024,
+      "segment": "Camera Flagship",
+      "status": "Retail",
+      "notes": "14 Ultra"
+    },
+    "technical": {
+      "displayText": "6.73 LTPO OLED",
+      "displaySizeInches": 6.73,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 3",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Leica quad",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Xiaomi 14|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0067",
+    "manufacturer": "HONOR",
+    "model": "Magic6 Pro",
+    "identity": {
+      "family": "Magic",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Magic6 Pro"
+    },
+    "technical": {
+      "displayText": "6.8 LTPO OLED",
+      "displaySizeInches": 6.8,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Gen 3",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "180 MP tele + cameras",
+      "mainCameraMpExplicit": 180.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Magic|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0068",
+    "manufacturer": "OPPO",
+    "model": "Find X8 Pro",
+    "identity": {
+      "family": "Find X",
+      "launchYear": 2024,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Find X8 Pro"
+    },
+    "technical": {
+      "displayText": "6.78 LTPO OLED",
+      "displaySizeInches": 6.78,
+      "refreshRateHz": null,
+      "soc": "Dimensity 9400",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Hasselblad quad",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Find X|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oppo.com/en/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0069",
+    "manufacturer": "Nothing",
+    "model": "Phone (2a)",
+    "identity": {
+      "family": "Nothing Phone a",
+      "launchYear": 2024,
+      "segment": "Mid-range",
+      "status": "Retail",
+      "notes": "First a-series"
+    },
+    "technical": {
+      "displayText": "6.7 AMOLED 120 Hz",
+      "displaySizeInches": 6.7,
+      "refreshRateHz": 120,
+      "soc": "Dimensity 7200 Pro",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Dual 50 MP",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": false,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Nothing Phone a|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://nothing.tech/pages/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0070",
+    "manufacturer": "Motorola",
+    "model": "Razr 50 Ultra / Razr+ (2024)",
+    "identity": {
+      "family": "Razr",
+      "launchYear": 2024,
+      "segment": "Foldable Flagship",
+      "status": "Retail",
+      "notes": "2024 Razr flagship"
+    },
+    "technical": {
+      "displayText": "6.9 foldable OLED",
+      "displaySizeInches": 6.9,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8s Gen 3",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Razr|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.motorola.com/us/smartphones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0071",
+    "manufacturer": "Apple",
+    "model": "iPhone 16e",
+    "identity": {
+      "family": "iPhone 16e",
+      "launchYear": 2025,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "Lower-cost modern iPhone"
+    },
+    "technical": {
+      "displayText": "6.1 OLED",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": null,
+      "soc": "A18",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Single 48 MP",
+      "mainCameraMpExplicit": 48.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": false,
+      "premiumClass": false,
+      "upperMidrangeClass": true,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 16e|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0072",
+    "manufacturer": "Apple",
+    "model": "iPhone 17",
+    "identity": {
+      "family": "iPhone 17",
+      "launchYear": 2025,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "2025 base model"
+    },
+    "technical": {
+      "displayText": "6.3 OLED",
+      "displaySizeInches": 6.3,
+      "refreshRateHz": null,
+      "soc": "A19 class",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Dual Fusion camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 17|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0073",
+    "manufacturer": "Apple",
+    "model": "iPhone Air",
+    "identity": {
+      "family": "iPhone Air",
+      "launchYear": 2025,
+      "segment": "Premium Thin",
+      "status": "Retail",
+      "notes": "Ultra-thin titanium model"
+    },
+    "technical": {
+      "displayText": "6.5 OLED",
+      "displaySizeInches": 6.5,
+      "refreshRateHz": null,
+      "soc": "A19 Pro class",
+      "ramText": "12 GB class",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Single main camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": false,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone Air|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0074",
+    "manufacturer": "Apple",
+    "model": "iPhone 17 Pro",
+    "identity": {
+      "family": "iPhone 17 Pro",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "2025 Pro"
+    },
+    "technical": {
+      "displayText": "6.3 OLED",
+      "displaySizeInches": 6.3,
+      "refreshRateHz": null,
+      "soc": "A19 Pro",
+      "ramText": "12 GB class",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple Fusion camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 17 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0075",
+    "manufacturer": "Apple",
+    "model": "iPhone 17 Pro Max",
+    "identity": {
+      "family": "iPhone 17 Pro",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "2025 Pro Max"
+    },
+    "technical": {
+      "displayText": "6.9 OLED",
+      "displaySizeInches": 6.9,
+      "refreshRateHz": null,
+      "soc": "A19 Pro",
+      "ramText": "12 GB class",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–2 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 2048,
+      "cameraSummary": "Triple Fusion camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "iPhone 17 Pro|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0076",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S25",
+    "identity": {
+      "family": "Galaxy S25",
+      "launchYear": 2025,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "S25 generation"
+    },
+    "technical": {
+      "displayText": "6.2 AMOLED 120 Hz",
+      "displaySizeInches": 6.2,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Elite for Galaxy",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "50 MP triple",
+      "mainCameraMpExplicit": 50.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S25|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0077",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S25 Ultra",
+    "identity": {
+      "family": "Galaxy S25",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "S25 Ultra"
+    },
+    "technical": {
+      "displayText": "6.9 AMOLED 120 Hz",
+      "displaySizeInches": 6.9,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Elite for Galaxy",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "200 MP multi-camera",
+      "mainCameraMpExplicit": 200.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Galaxy S25|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0078",
+    "manufacturer": "Google",
+    "model": "Pixel 10",
+    "identity": {
+      "family": "Pixel 10",
+      "launchYear": 2025,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Pixel 10 generation"
+    },
+    "technical": {
+      "displayText": "OLED 120 Hz",
+      "displaySizeInches": null,
+      "refreshRateHz": 120,
+      "soc": "Tensor G5",
+      "ramText": "12 GB class",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "cameraSummary": "Multi-camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Pixel 10|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0079",
+    "manufacturer": "Google",
+    "model": "Pixel 10 Pro",
+    "identity": {
+      "family": "Pixel 10",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Pixel 10 Pro"
+    },
+    "technical": {
+      "displayText": "LTPO OLED",
+      "displaySizeInches": null,
+      "refreshRateHz": null,
+      "soc": "Tensor G5",
+      "ramText": "16 GB class",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Triple rear",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Pixel 10|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/category/phones"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0080",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 13",
+    "identity": {
+      "family": "OnePlus 13",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "OnePlus 13"
+    },
+    "technical": {
+      "displayText": "6.82 LTPO AMOLED",
+      "displaySizeInches": 6.82,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Elite",
+      "ramText": "12–24 GB",
+      "minRamGb": 12,
+      "maxRamGb": 24,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Hasselblad triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "OnePlus 13|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/phone"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0081",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 15",
+    "identity": {
+      "family": "Xiaomi 15",
+      "launchYear": 2025,
+      "segment": "Flagship",
+      "status": "Retail",
+      "notes": "Xiaomi 15 generation"
+    },
+    "technical": {
+      "displayText": "6.36 LTPO OLED",
+      "displaySizeInches": 6.36,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Elite",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Leica triple",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Xiaomi 15|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0082",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi 15 Ultra",
+    "identity": {
+      "family": "Xiaomi 15",
+      "launchYear": 2025,
+      "segment": "Camera Flagship",
+      "status": "Retail",
+      "notes": "15 Ultra"
+    },
+    "technical": {
+      "displayText": "6.73 LTPO OLED",
+      "displaySizeInches": 6.73,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Elite",
+      "ramText": "16 GB class",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "512 GB–1 TB",
+      "minStorageGb": 512,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Leica quad",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Xiaomi 15|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/phone/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0083",
+    "manufacturer": "HONOR",
+    "model": "Magic7 Pro",
+    "identity": {
+      "family": "Magic",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Magic7 Pro"
+    },
+    "technical": {
+      "displayText": "6.8 LTPO OLED",
+      "displaySizeInches": 6.8,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8 Elite",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "200 MP tele + cameras",
+      "mainCameraMpExplicit": 200.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Magic|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0084",
+    "manufacturer": "OPPO",
+    "model": "Find X9",
+    "identity": {
+      "family": "Find X",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Global X9"
+    },
+    "technical": {
+      "displayText": "Flagship OLED",
+      "displaySizeInches": null,
+      "refreshRateHz": null,
+      "soc": "Dimensity flagship",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Hasselblad camera system",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Find X|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oppo.com/en/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0085",
+    "manufacturer": "OPPO",
+    "model": "Find X9 Pro",
+    "identity": {
+      "family": "Find X",
+      "launchYear": 2025,
+      "segment": "Premium Flagship",
+      "status": "Retail",
+      "notes": "Global X9 Pro"
+    },
+    "technical": {
+      "displayText": "Flagship OLED",
+      "displaySizeInches": null,
+      "refreshRateHz": null,
+      "soc": "Dimensity flagship",
+      "ramText": "16 GB",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "512 GB",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "cameraSummary": "200 MP Hasselblad telephoto",
+      "mainCameraMpExplicit": 200.0
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Find X|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oppo.com/en/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0086",
+    "manufacturer": "Apple",
+    "model": "iPhone 17e",
+    "identity": {
+      "family": "iPhone 17e",
+      "launchYear": 2026,
+      "segment": "Upper Mid-range",
+      "status": "Current",
+      "notes": "Apple 2026 e-series"
+    },
+    "technical": {
+      "displayText": "6.1 OLED",
+      "displaySizeInches": 6.1,
+      "refreshRateHz": null,
+      "soc": "A19-class",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Single Fusion camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "flagshipClass": false,
+      "premiumClass": false,
+      "upperMidrangeClass": true,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "iPhone 17e|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108044"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0087",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S26",
+    "identity": {
+      "family": "Galaxy S26",
+      "launchYear": 2026,
+      "segment": "Flagship",
+      "status": "Current",
+      "notes": "2026 S-series generation"
+    },
+    "technical": {
+      "displayText": "AMOLED 120 Hz",
+      "displaySizeInches": null,
+      "refreshRateHz": 120,
+      "soc": "2026 flagship SoC",
+      "ramText": "12 GB class",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "cameraSummary": "Multi-camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Galaxy S26|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0088",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S26 Ultra",
+    "identity": {
+      "family": "Galaxy S26",
+      "launchYear": 2026,
+      "segment": "Premium Flagship",
+      "status": "Current",
+      "notes": "2026 Ultra generation"
+    },
+    "technical": {
+      "displayText": "AMOLED 120 Hz",
+      "displaySizeInches": null,
+      "refreshRateHz": 120,
+      "soc": "2026 flagship SoC",
+      "ramText": "12–16 GB class",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "cameraSummary": "Ultra camera system",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": true,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Galaxy S26|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/smartphones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0089",
+    "manufacturer": "HONOR",
+    "model": "Magic8 Pro",
+    "identity": {
+      "family": "Magic",
+      "launchYear": 2026,
+      "segment": "Premium Flagship",
+      "status": "Current",
+      "notes": "2026 AI camera flagship"
+    },
+    "technical": {
+      "displayText": "Flagship LTPO OLED",
+      "displaySizeInches": null,
+      "refreshRateHz": null,
+      "soc": "2026 flagship Snapdragon",
+      "ramText": "16 GB class",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "512 GB+",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "cameraSummary": "AI camera flagship",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": true,
+      "highRefreshDisplay": false,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": true,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "Magic|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0090",
+    "manufacturer": "HONOR",
+    "model": "Magic V6",
+    "identity": {
+      "family": "Magic V",
+      "launchYear": 2026,
+      "segment": "Foldable Flagship",
+      "status": "Current",
+      "notes": "2026 foldable flagship"
+    },
+    "technical": {
+      "displayText": "Foldable OLED",
+      "displaySizeInches": null,
+      "refreshRateHz": null,
+      "soc": "2026 flagship platform",
+      "ramText": "16 GB class",
+      "minRamGb": 16,
+      "maxRamGb": 16,
+      "storageText": "512 GB+",
+      "minStorageGb": 512,
+      "maxStorageGb": 512,
+      "cameraSummary": "Foldable flagship cameras",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": false,
+      "foldable": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": true,
+      "premiumClass": false,
+      "upperMidrangeClass": false,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "Magic V|FOLDABLE"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0091",
+    "manufacturer": "HONOR",
+    "model": "HONOR 600",
+    "identity": {
+      "family": "HONOR Number",
+      "launchYear": 2026,
+      "segment": "Upper Mid-range",
+      "status": "Current",
+      "notes": "2026 accessible flagship series"
+    },
+    "technical": {
+      "displayText": "OLED 120 Hz",
+      "displaySizeInches": null,
+      "refreshRateHz": 120,
+      "soc": "Upper-midrange SoC",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "High-res main camera",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": false,
+      "premiumClass": false,
+      "upperMidrangeClass": true,
+      "budgetClass": false,
+      "proOrUltraClass": false,
+      "compatibilityKey": "HONOR Number|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "PHN-0092",
+    "manufacturer": "HONOR",
+    "model": "HONOR 600 Pro",
+    "identity": {
+      "family": "HONOR Number",
+      "launchYear": 2026,
+      "segment": "Upper Mid-range / Premium",
+      "status": "Current",
+      "notes": "2026 Pro model"
+    },
+    "technical": {
+      "displayText": "OLED 120 Hz",
+      "displaySizeInches": null,
+      "refreshRateHz": 120,
+      "soc": "Upper-midrange / flagship SoC",
+      "ramText": "12 GB+",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "cameraSummary": "Upgraded camera system",
+      "mainCameraMpExplicit": null
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "amoledDisplay": false,
+      "ltpoDisplay": false,
+      "highRefreshDisplay": true,
+      "foldable": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "flagshipClass": false,
+      "premiumClass": true,
+      "upperMidrangeClass": true,
+      "budgetClass": false,
+      "proOrUltraClass": true,
+      "compatibilityKey": "HONOR Number|SLAB"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/phones/"
+      ],
+      "sourceScope": "Smartphone List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  }
+]
