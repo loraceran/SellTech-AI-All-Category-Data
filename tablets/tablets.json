@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "TAB-0001",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 11-inch (3rd gen, M1)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2021,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "M1 11-inch Pro"
+    },
+    "technical": {
+      "displayText": "11-inch 120 Hz",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": 120,
+      "soc": "M1",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "128 GB–2 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0002",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 12.9-inch (5th gen, M1)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2021,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "Mini-LED M1 Pro"
+    },
+    "technical": {
+      "displayText": "12.9 mini-LED 120 Hz",
+      "displaySizeInches": 12.9,
+      "refreshRateHz": 120,
+      "soc": "M1",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "128 GB–2 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": true,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0003",
+    "manufacturer": "Apple",
+    "model": "iPad mini (6th generation)",
+    "identity": {
+      "family": "iPad mini",
+      "launchYear": 2021,
+      "segment": "Compact Premium",
+      "status": "Retail",
+      "notes": "Major mini redesign"
+    },
+    "technical": {
+      "displayText": "8.3-inch",
+      "displaySizeInches": 8.3,
+      "refreshRateHz": null,
+      "soc": "A15 Bionic",
+      "ramText": "4 GB class",
+      "minRamGb": 4,
+      "maxRamGb": 4,
+      "storageText": "64–256 GB",
+      "minStorageGb": 64,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad mini|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0004",
+    "manufacturer": "Apple",
+    "model": "iPad (9th generation)",
+    "identity": {
+      "family": "iPad",
+      "launchYear": 2021,
+      "segment": "Mainstream",
+      "status": "Retail",
+      "notes": "Last classic 10.2-inch generation"
+    },
+    "technical": {
+      "displayText": "10.2-inch",
+      "displaySizeInches": 10.2,
+      "refreshRateHz": null,
+      "soc": "A13 Bionic",
+      "ramText": "3 GB class",
+      "minRamGb": 3,
+      "maxRamGb": 3,
+      "storageText": "64–256 GB",
+      "minStorageGb": 64,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / LTE"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0005",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S7 FE",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2021,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "Fan Edition large tablet"
+    },
+    "technical": {
+      "displayText": "12.4 TFT",
+      "displaySizeInches": 12.4,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 750G / 778G",
+      "ramText": "4–8 GB",
+      "minRamGb": 4,
+      "maxRamGb": 8,
+      "storageText": "64–256 GB",
+      "minStorageGb": 64,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0006",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab A8",
+    "identity": {
+      "family": "Galaxy Tab A",
+      "launchYear": 2021,
+      "segment": "Budget",
+      "status": "Retail",
+      "notes": "Mass-market A-series"
+    },
+    "technical": {
+      "displayText": "10.5 LCD",
+      "displaySizeInches": 10.5,
+      "refreshRateHz": null,
+      "soc": "Unisoc T618",
+      "ramText": "3–4 GB",
+      "minRamGb": 3,
+      "maxRamGb": 4,
+      "storageText": "32–128 GB",
+      "minStorageGb": 32,
+      "maxStorageGb": 128,
+      "connectivity": "Wi-Fi / LTE"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": true,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab A|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0007",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi Pad 5",
+    "identity": {
+      "family": "Xiaomi Pad",
+      "launchYear": 2021,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "Global Xiaomi tablet return"
+    },
+    "technical": {
+      "displayText": "11-inch 120 Hz",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 860",
+      "ramText": "6 GB",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Xiaomi Pad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/tablet/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0008",
+    "manufacturer": "Apple",
+    "model": "iPad Air (5th gen, M1)",
+    "identity": {
+      "family": "iPad Air",
+      "launchYear": 2022,
+      "segment": "Premium Mainstream",
+      "status": "Retail",
+      "notes": "M1 Air"
+    },
+    "technical": {
+      "displayText": "10.9-inch",
+      "displaySizeInches": 10.9,
+      "refreshRateHz": null,
+      "soc": "M1",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "64–256 GB",
+      "minStorageGb": 64,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Air|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0009",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 11-inch (4th gen, M2)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2022,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "M2 11-inch Pro"
+    },
+    "technical": {
+      "displayText": "11-inch 120 Hz",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": 120,
+      "soc": "M2",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "128 GB–2 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0010",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 12.9-inch (6th gen, M2)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2022,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "M2 12.9 Pro"
+    },
+    "technical": {
+      "displayText": "12.9 mini-LED 120 Hz",
+      "displaySizeInches": 12.9,
+      "refreshRateHz": 120,
+      "soc": "M2",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "128 GB–2 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": true,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0011",
+    "manufacturer": "Apple",
+    "model": "iPad (10th generation)",
+    "identity": {
+      "family": "iPad",
+      "launchYear": 2022,
+      "segment": "Mainstream",
+      "status": "Retail",
+      "notes": "USB-C redesigned base iPad"
+    },
+    "technical": {
+      "displayText": "10.9-inch",
+      "displaySizeInches": 10.9,
+      "refreshRateHz": null,
+      "soc": "A14 Bionic",
+      "ramText": "4 GB class",
+      "minRamGb": 4,
+      "maxRamGb": 4,
+      "storageText": "64–256 GB",
+      "minStorageGb": 64,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0012",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S8",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2022,
+      "segment": "Premium",
+      "status": "Retail",
+      "notes": "Base S8"
+    },
+    "technical": {
+      "displayText": "11 LCD 120 Hz",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0013",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S8+",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2022,
+      "segment": "Premium",
+      "status": "Retail",
+      "notes": "Large AMOLED S8"
+    },
+    "technical": {
+      "displayText": "12.4 AMOLED 120 Hz",
+      "displaySizeInches": 12.4,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0014",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S8 Ultra",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2022,
+      "segment": "Ultra / Laptop replacement",
+      "status": "Retail",
+      "notes": "First Ultra tablet"
+    },
+    "technical": {
+      "displayText": "14.6 AMOLED 120 Hz",
+      "displaySizeInches": 14.6,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 1",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": true,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0015",
+    "manufacturer": "Google",
+    "model": "Pixel Tablet",
+    "identity": {
+      "family": "Pixel Tablet",
+      "launchYear": 2023,
+      "segment": "Premium Home Tablet",
+      "status": "Retail",
+      "notes": "Charging speaker dock ecosystem"
+    },
+    "technical": {
+      "displayText": "10.95 LCD",
+      "displaySizeInches": 10.95,
+      "refreshRateHz": null,
+      "soc": "Tensor G2",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Pixel Tablet|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://store.google.com/product/pixel_tablet"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0016",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S9",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2023,
+      "segment": "Premium",
+      "status": "Retail",
+      "notes": "AMOLED across S9 line"
+    },
+    "technical": {
+      "displayText": "11 AMOLED 120 Hz",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0017",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S9+",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2023,
+      "segment": "Premium",
+      "status": "Retail",
+      "notes": "S9+"
+    },
+    "technical": {
+      "displayText": "12.4 AMOLED 120 Hz",
+      "displaySizeInches": 12.4,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0018",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S9 Ultra",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2023,
+      "segment": "Ultra / Laptop replacement",
+      "status": "Retail",
+      "notes": "S9 Ultra"
+    },
+    "technical": {
+      "displayText": "14.6 AMOLED 120 Hz",
+      "displaySizeInches": 14.6,
+      "refreshRateHz": 120,
+      "soc": "Snapdragon 8 Gen 2 for Galaxy",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": true,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0019",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S9 FE",
+    "identity": {
+      "family": "Galaxy Tab S FE",
+      "launchYear": 2023,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "Fan Edition"
+    },
+    "technical": {
+      "displayText": "10.9 LCD 90 Hz",
+      "displaySizeInches": 10.9,
+      "refreshRateHz": 90,
+      "soc": "Exynos 1380",
+      "ramText": "6–8 GB",
+      "minRamGb": 6,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab S FE|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0020",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Pad",
+    "identity": {
+      "family": "OnePlus Pad",
+      "launchYear": 2023,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "First OnePlus tablet"
+    },
+    "technical": {
+      "displayText": "11.61 LCD 144 Hz",
+      "displaySizeInches": 11.61,
+      "refreshRateHz": 144,
+      "soc": "Dimensity 9000",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "OnePlus Pad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/tablet"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0021",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi Pad 6",
+    "identity": {
+      "family": "Xiaomi Pad",
+      "launchYear": 2023,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "Popular Pad 6"
+    },
+    "technical": {
+      "displayText": "11-inch 144 Hz",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": 144,
+      "soc": "Snapdragon 870",
+      "ramText": "6–8 GB",
+      "minRamGb": 6,
+      "maxRamGb": 8,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Xiaomi Pad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/tablet/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0022",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 11-inch (M4)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2024,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "Tandem OLED M4"
+    },
+    "technical": {
+      "displayText": "11-inch tandem OLED 120 Hz",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": 120,
+      "soc": "M4",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "256 GB–2 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0023",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 13-inch (M4)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2024,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "13-inch OLED M4"
+    },
+    "technical": {
+      "displayText": "13-inch tandem OLED 120 Hz",
+      "displaySizeInches": 13.0,
+      "refreshRateHz": 120,
+      "soc": "M4",
+      "ramText": "8–16 GB",
+      "minRamGb": 8,
+      "maxRamGb": 16,
+      "storageText": "256 GB–2 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0024",
+    "manufacturer": "Apple",
+    "model": "iPad Air 11-inch (M2)",
+    "identity": {
+      "family": "iPad Air",
+      "launchYear": 2024,
+      "segment": "Premium Mainstream",
+      "status": "Retail",
+      "notes": "11-inch M2 Air"
+    },
+    "technical": {
+      "displayText": "11-inch",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": null,
+      "soc": "M2",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Air|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0025",
+    "manufacturer": "Apple",
+    "model": "iPad Air 13-inch (M2)",
+    "identity": {
+      "family": "iPad Air",
+      "launchYear": 2024,
+      "segment": "Premium Mainstream",
+      "status": "Retail",
+      "notes": "First 13-inch Air"
+    },
+    "technical": {
+      "displayText": "13-inch",
+      "displaySizeInches": 13.0,
+      "refreshRateHz": null,
+      "soc": "M2",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Air|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0026",
+    "manufacturer": "Apple",
+    "model": "iPad mini (A17 Pro)",
+    "identity": {
+      "family": "iPad mini",
+      "launchYear": 2024,
+      "segment": "Compact Premium",
+      "status": "Retail",
+      "notes": "Apple Intelligence-ready mini"
+    },
+    "technical": {
+      "displayText": "8.3-inch",
+      "displaySizeInches": 8.3,
+      "refreshRateHz": null,
+      "soc": "A17 Pro",
+      "ramText": "8 GB class",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad mini|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0027",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S10+",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2024,
+      "segment": "Premium",
+      "status": "Retail",
+      "notes": "S10 generation"
+    },
+    "technical": {
+      "displayText": "12.4 AMOLED 120 Hz",
+      "displaySizeInches": 12.4,
+      "refreshRateHz": 120,
+      "soc": "Dimensity 9300+",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0028",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S10 Ultra",
+    "identity": {
+      "family": "Galaxy Tab S",
+      "launchYear": 2024,
+      "segment": "Ultra / Laptop replacement",
+      "status": "Retail",
+      "notes": "S10 Ultra"
+    },
+    "technical": {
+      "displayText": "14.6 AMOLED 120 Hz",
+      "displaySizeInches": 14.6,
+      "refreshRateHz": 120,
+      "soc": "Dimensity 9300+",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256 GB–1 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": true,
+      "compatibilityKey": "Galaxy Tab S|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0029",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Pad 2",
+    "identity": {
+      "family": "OnePlus Pad",
+      "launchYear": 2024,
+      "segment": "Premium Android",
+      "status": "Retail",
+      "notes": "Flagship-level Pad 2"
+    },
+    "technical": {
+      "displayText": "12.1 LCD 144 Hz",
+      "displaySizeInches": 12.1,
+      "refreshRateHz": 144,
+      "soc": "Snapdragon 8 Gen 3",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "OnePlus Pad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/tablet"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0030",
+    "manufacturer": "HONOR",
+    "model": "MagicPad2",
+    "identity": {
+      "family": "MagicPad",
+      "launchYear": 2024,
+      "segment": "Premium Android",
+      "status": "Retail",
+      "notes": "OLED high-refresh tablet"
+    },
+    "technical": {
+      "displayText": "12.3 OLED 144 Hz",
+      "displaySizeInches": 12.3,
+      "refreshRateHz": 144,
+      "soc": "Snapdragon 8s Gen 3",
+      "ramText": "12 GB",
+      "minRamGb": 12,
+      "maxRamGb": 12,
+      "storageText": "256 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": true,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": true,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "MagicPad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.honor.com/global/tablets/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0031",
+    "manufacturer": "Apple",
+    "model": "iPad (A16)",
+    "identity": {
+      "family": "iPad",
+      "launchYear": 2025,
+      "segment": "Mainstream",
+      "status": "Retail",
+      "notes": "A16 base iPad"
+    },
+    "technical": {
+      "displayText": "11-inch class",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": null,
+      "soc": "A16",
+      "ramText": "6 GB class",
+      "minRamGb": 6,
+      "maxRamGb": 6,
+      "storageText": "128–512 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 512,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0032",
+    "manufacturer": "Apple",
+    "model": "iPad Air 11-inch (M3)",
+    "identity": {
+      "family": "iPad Air",
+      "launchYear": 2025,
+      "segment": "Premium Mainstream",
+      "status": "Retail",
+      "notes": "M3 Air"
+    },
+    "technical": {
+      "displayText": "11-inch",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": null,
+      "soc": "M3",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Air|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0033",
+    "manufacturer": "Apple",
+    "model": "iPad Air 13-inch (M3)",
+    "identity": {
+      "family": "iPad Air",
+      "launchYear": 2025,
+      "segment": "Premium Mainstream",
+      "status": "Retail",
+      "notes": "13-inch M3 Air"
+    },
+    "technical": {
+      "displayText": "13-inch",
+      "displaySizeInches": 13.0,
+      "refreshRateHz": null,
+      "soc": "M3",
+      "ramText": "8 GB",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / 5G"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Air|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0034",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 11-inch (M5)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2025,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "M5 Pro generation"
+    },
+    "technical": {
+      "displayText": "11-inch Ultra Retina XDR",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": null,
+      "soc": "M5",
+      "ramText": "High-memory tiers",
+      "minRamGb": null,
+      "maxRamGb": null,
+      "storageText": "256 GB–2 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / Cellular"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0035",
+    "manufacturer": "Apple",
+    "model": "iPad Pro 13-inch (M5)",
+    "identity": {
+      "family": "iPad Pro",
+      "launchYear": 2025,
+      "segment": "Premium / Pro",
+      "status": "Retail",
+      "notes": "13-inch M5 Pro"
+    },
+    "technical": {
+      "displayText": "13-inch Ultra Retina XDR",
+      "displaySizeInches": 13.0,
+      "refreshRateHz": null,
+      "soc": "M5",
+      "ramText": "High-memory tiers",
+      "minRamGb": null,
+      "maxRamGb": null,
+      "storageText": "256 GB–2 TB",
+      "minStorageGb": 256,
+      "maxStorageGb": 2048,
+      "connectivity": "Wi-Fi / Cellular"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": true,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Pro|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0036",
+    "manufacturer": "OnePlus",
+    "model": "OnePlus Pad 3",
+    "identity": {
+      "family": "OnePlus Pad",
+      "launchYear": 2025,
+      "segment": "Premium Android",
+      "status": "Retail",
+      "notes": "2025 flagship tablet"
+    },
+    "technical": {
+      "displayText": "Large high-refresh",
+      "displaySizeInches": null,
+      "refreshRateHz": null,
+      "soc": "Flagship Snapdragon",
+      "ramText": "12–16 GB",
+      "minRamGb": 12,
+      "maxRamGb": 16,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "OnePlus Pad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.oneplus.com/global/tablet"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0037",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi Pad 7",
+    "identity": {
+      "family": "Xiaomi Pad",
+      "launchYear": 2025,
+      "segment": "Upper Mid-range",
+      "status": "Retail",
+      "notes": "Pad 7 generation"
+    },
+    "technical": {
+      "displayText": "11.2 high-refresh",
+      "displaySizeInches": 11.2,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 7+ Gen 3 class",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "128–256 GB",
+      "minStorageGb": 128,
+      "maxStorageGb": 256,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": false,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Xiaomi Pad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/tablet/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0038",
+    "manufacturer": "Xiaomi",
+    "model": "Xiaomi Pad 7 Pro",
+    "identity": {
+      "family": "Xiaomi Pad",
+      "launchYear": 2025,
+      "segment": "Premium Android",
+      "status": "Retail",
+      "notes": "Pad 7 Pro"
+    },
+    "technical": {
+      "displayText": "11.2 high-refresh",
+      "displaySizeInches": 11.2,
+      "refreshRateHz": null,
+      "soc": "Snapdragon 8s Gen 3",
+      "ramText": "8–12 GB",
+      "minRamGb": 8,
+      "maxRamGb": 12,
+      "storageText": "256–512 GB",
+      "minStorageGb": 256,
+      "maxStorageGb": 512,
+      "connectivity": "Wi-Fi"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": false,
+      "wifiOnly": true
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": false,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "Xiaomi Pad|WIFI"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.mi.com/global/tablet/"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0039",
+    "manufacturer": "Apple",
+    "model": "iPad Air 11-inch (M4)",
+    "identity": {
+      "family": "iPad Air",
+      "launchYear": 2026,
+      "segment": "Premium Mainstream",
+      "status": "Current",
+      "notes": "2026 M4 Air"
+    },
+    "technical": {
+      "displayText": "11-inch Liquid Retina",
+      "displaySizeInches": 11.0,
+      "refreshRateHz": null,
+      "soc": "M4",
+      "ramText": "8 GB+",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / Cellular"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Air|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "TAB-0040",
+    "manufacturer": "Apple",
+    "model": "iPad Air 13-inch (M4)",
+    "identity": {
+      "family": "iPad Air",
+      "launchYear": 2026,
+      "segment": "Premium Mainstream",
+      "status": "Current",
+      "notes": "2026 M4 Air"
+    },
+    "technical": {
+      "displayText": "13-inch Liquid Retina",
+      "displaySizeInches": 13.0,
+      "refreshRateHz": null,
+      "soc": "M4",
+      "ramText": "8 GB+",
+      "minRamGb": 8,
+      "maxRamGb": 8,
+      "storageText": "128 GB–1 TB",
+      "minStorageGb": 128,
+      "maxStorageGb": 1024,
+      "connectivity": "Wi-Fi / Cellular"
+    },
+    "capabilities": {
+      "oledDisplay": false,
+      "miniLedDisplay": false,
+      "highRefreshDisplay": false,
+      "cellularAvailable": true,
+      "wifiOnly": false
+    },
+    "derivedBase": {
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "premiumClass": true,
+      "proClass": false,
+      "mainstreamClass": true,
+      "budgetClass": false,
+      "laptopReplacementClass": false,
+      "compatibilityKey": "iPad Air|CELLULAR"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108043"
+      ],
+      "sourceScope": "Tablet List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  }
+]
