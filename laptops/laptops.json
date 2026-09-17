@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "LAP-0001",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 14-inch (2021)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2021,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "Pro redesign"
+    },
+    "technical": {
+      "displayText": "14.2-inch",
+      "minDisplaySizeInches": 14.2,
+      "maxDisplaySizeInches": 14.2,
+      "cpuPlatform": "M1 Pro / M1 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0002",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 16-inch (2021)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2021,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "16-inch redesign"
+    },
+    "technical": {
+      "displayText": "16.2-inch",
+      "minDisplaySizeInches": 16.2,
+      "maxDisplaySizeInches": 16.2,
+      "cpuPlatform": "M1 Pro / M1 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0003",
+    "manufacturer": "Dell",
+    "model": "XPS 13 9310",
+    "identity": {
+      "family": "XPS",
+      "launchYear": 2021,
+      "segment": "Premium Ultrabook",
+      "status": "Retail",
+      "notes": "2021 XPS 13"
+    },
+    "technical": {
+      "displayText": "13.4-inch",
+      "minDisplaySizeInches": 13.4,
+      "maxDisplaySizeInches": 13.4,
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "Integrated Xe",
+      "normalizedGpuClass": "Intel Integrated Xe"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "XPS|Intel Integrated Xe"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0004",
+    "manufacturer": "Dell",
+    "model": "XPS 15 9510",
+    "identity": {
+      "family": "XPS",
+      "launchYear": 2021,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "2021 XPS 15"
+    },
+    "technical": {
+      "displayText": "15.6-inch",
+      "minDisplaySizeInches": 15.6,
+      "maxDisplaySizeInches": 15.6,
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "RTX 3050-class",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "XPS|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0005",
+    "manufacturer": "Dell",
+    "model": "Alienware x15 R1",
+    "identity": {
+      "family": "Alienware x",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "status": "Retail",
+      "notes": "Thin x-series"
+    },
+    "technical": {
+      "displayText": "15.6-inch",
+      "minDisplaySizeInches": 15.6,
+      "maxDisplaySizeInches": 15.6,
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "RTX 30 Laptop",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "Alienware x|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0006",
+    "manufacturer": "Lenovo",
+    "model": "Legion 5 Pro Gen 6",
+    "identity": {
+      "family": "Legion",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "status": "Retail",
+      "notes": "16:10 Legion Pro"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Ryzen 5000",
+      "gpuClass": "RTX 30 Laptop",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Legion|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0007",
+    "manufacturer": "Lenovo",
+    "model": "ThinkPad X1 Carbon Gen 9",
+    "identity": {
+      "family": "ThinkPad X1",
+      "launchYear": 2021,
+      "segment": "Business / Premium",
+      "status": "Retail",
+      "notes": "Gen 9"
+    },
+    "technical": {
+      "displayText": "14-inch",
+      "minDisplaySizeInches": 14.0,
+      "maxDisplaySizeInches": 14.0,
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "Integrated Xe",
+      "normalizedGpuClass": "Intel Integrated Xe"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": true,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "ThinkPad X1|Intel Integrated Xe"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0008",
+    "manufacturer": "ASUS",
+    "model": "ROG Zephyrus G15 (2021)",
+    "identity": {
+      "family": "ROG Zephyrus",
+      "launchYear": 2021,
+      "segment": "Gaming / Thin",
+      "status": "Retail",
+      "notes": "2021 Zephyrus"
+    },
+    "technical": {
+      "displayText": "15.6-inch",
+      "minDisplaySizeInches": 15.6,
+      "maxDisplaySizeInches": 15.6,
+      "cpuPlatform": "Ryzen 5000",
+      "gpuClass": "RTX 30 Laptop",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": true,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "ROG Zephyrus|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0009",
+    "manufacturer": "ASUS",
+    "model": "ROG Flow X13 (2021)",
+    "identity": {
+      "family": "ROG Flow",
+      "launchYear": 2021,
+      "segment": "Gaming / Convertible",
+      "status": "Retail",
+      "notes": "Compact convertible"
+    },
+    "technical": {
+      "displayText": "13.4-inch",
+      "minDisplaySizeInches": 13.4,
+      "maxDisplaySizeInches": 13.4,
+      "cpuPlatform": "Ryzen 5000",
+      "gpuClass": "RTX 3050 + XG Mobile option",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": true,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "ROG Flow|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0010",
+    "manufacturer": "MSI",
+    "model": "GE76 Raider 11U",
+    "identity": {
+      "family": "Raider",
+      "launchYear": 2021,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "notes": "High-performance Raider"
+    },
+    "technical": {
+      "displayText": "17.3-inch",
+      "minDisplaySizeInches": 17.3,
+      "maxDisplaySizeInches": 17.3,
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "RTX 30 Laptop",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Raider|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.msi.com/Laptop"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0011",
+    "manufacturer": "Apple",
+    "model": "MacBook Air (M2)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2022,
+      "segment": "Ultrabook / Premium",
+      "status": "Retail",
+      "notes": "Redesigned M2 Air"
+    },
+    "technical": {
+      "displayText": "13.6-inch",
+      "minDisplaySizeInches": 13.6,
+      "maxDisplaySizeInches": 13.6,
+      "cpuPlatform": "M2",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0012",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 13-inch (M2)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2022,
+      "segment": "Creator / Compact",
+      "status": "Retail",
+      "notes": "Last Touch Bar generation"
+    },
+    "technical": {
+      "displayText": "13.3-inch",
+      "minDisplaySizeInches": 13.3,
+      "maxDisplaySizeInches": 13.3,
+      "cpuPlatform": "M2",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0013",
+    "manufacturer": "Dell",
+    "model": "XPS 13 Plus 9320",
+    "identity": {
+      "family": "XPS",
+      "launchYear": 2022,
+      "segment": "Premium Ultrabook",
+      "status": "Retail",
+      "notes": "Capacitive function row"
+    },
+    "technical": {
+      "displayText": "13.4-inch",
+      "minDisplaySizeInches": 13.4,
+      "maxDisplaySizeInches": 13.4,
+      "cpuPlatform": "Intel 12th Gen",
+      "gpuClass": "Integrated Xe",
+      "normalizedGpuClass": "Intel Integrated Xe"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "XPS|Intel Integrated Xe"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0014",
+    "manufacturer": "Dell",
+    "model": "Alienware x14",
+    "identity": {
+      "family": "Alienware x",
+      "launchYear": 2022,
+      "segment": "Gaming / Thin",
+      "status": "Retail",
+      "notes": "Compact Alienware"
+    },
+    "technical": {
+      "displayText": "14-inch",
+      "minDisplaySizeInches": 14.0,
+      "maxDisplaySizeInches": 14.0,
+      "cpuPlatform": "Intel 12th Gen",
+      "gpuClass": "RTX 30 Laptop",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": true,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "Alienware x|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0015",
+    "manufacturer": "Lenovo",
+    "model": "Legion 7 Gen 7",
+    "identity": {
+      "family": "Legion",
+      "launchYear": 2022,
+      "segment": "Gaming",
+      "status": "Retail",
+      "notes": "Gen 7"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Ryzen 6000 / Intel 12th",
+      "gpuClass": "RX / RTX Laptop",
+      "normalizedGpuClass": "Mixed RX / RTX Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Legion|Mixed RX / RTX Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0016",
+    "manufacturer": "HP",
+    "model": "Spectre x360 13.5 (2022)",
+    "identity": {
+      "family": "Spectre",
+      "launchYear": 2022,
+      "segment": "Premium Convertible",
+      "status": "Retail",
+      "notes": "2022 Spectre"
+    },
+    "technical": {
+      "displayText": "13.5-inch",
+      "minDisplaySizeInches": 13.5,
+      "maxDisplaySizeInches": 13.5,
+      "cpuPlatform": "Intel 12th Gen",
+      "gpuClass": "Integrated Xe",
+      "normalizedGpuClass": "Intel Integrated Xe"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": true,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "Spectre|Intel Integrated Xe"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.hp.com/us-en/shop/vwa/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0017",
+    "manufacturer": "HP",
+    "model": "OMEN 16 (2022)",
+    "identity": {
+      "family": "OMEN",
+      "launchYear": 2022,
+      "segment": "Gaming",
+      "status": "Retail",
+      "notes": "2022 OMEN 16"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Intel 12th / Ryzen 6000",
+      "gpuClass": "RTX 30 Laptop",
+      "normalizedGpuClass": "RTX 30 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "OMEN|RTX 30 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.hp.com/us-en/shop/vwa/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0018",
+    "manufacturer": "ASUS",
+    "model": "ROG Zephyrus G14 (2022)",
+    "identity": {
+      "family": "ROG Zephyrus",
+      "launchYear": 2022,
+      "segment": "Gaming / Thin",
+      "status": "Retail",
+      "notes": "All-AMD generation"
+    },
+    "technical": {
+      "displayText": "14-inch",
+      "minDisplaySizeInches": 14.0,
+      "maxDisplaySizeInches": 14.0,
+      "cpuPlatform": "Ryzen 6000",
+      "gpuClass": "Radeon RX 6000S",
+      "normalizedGpuClass": "Radeon RX 6000 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": true,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "ROG Zephyrus|Radeon RX 6000 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0019",
+    "manufacturer": "MSI",
+    "model": "Titan GT77 12U",
+    "identity": {
+      "family": "Titan",
+      "launchYear": 2022,
+      "segment": "Desktop Replacement",
+      "status": "Retail",
+      "notes": "Titan revival"
+    },
+    "technical": {
+      "displayText": "17.3-inch",
+      "minDisplaySizeInches": 17.3,
+      "maxDisplaySizeInches": 17.3,
+      "cpuPlatform": "Intel 12th HX",
+      "gpuClass": "RTX 30 Ti Laptop",
+      "normalizedGpuClass": "RTX 30 Ti Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Titan|RTX 30 Ti Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.msi.com/Laptop"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0020",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Book2 Pro",
+    "identity": {
+      "family": "Galaxy Book",
+      "launchYear": 2022,
+      "segment": "Premium Ultrabook",
+      "status": "Retail",
+      "notes": "Book2 Pro"
+    },
+    "technical": {
+      "displayText": "13.3 / 15.6-inch",
+      "minDisplaySizeInches": 13.3,
+      "maxDisplaySizeInches": 15.6,
+      "cpuPlatform": "Intel 12th Gen",
+      "gpuClass": "Integrated",
+      "normalizedGpuClass": "Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "Galaxy Book|Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/computing/galaxy-books/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0021",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 14-inch (M2 Pro/Max)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2023,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "M2 refresh"
+    },
+    "technical": {
+      "displayText": "14.2-inch",
+      "minDisplaySizeInches": 14.2,
+      "maxDisplaySizeInches": 14.2,
+      "cpuPlatform": "M2 Pro / M2 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0022",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 16-inch (M2 Pro/Max)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2023,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "16-inch M2"
+    },
+    "technical": {
+      "displayText": "16.2-inch",
+      "minDisplaySizeInches": 16.2,
+      "maxDisplaySizeInches": 16.2,
+      "cpuPlatform": "M2 Pro / M2 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0023",
+    "manufacturer": "Apple",
+    "model": "MacBook Air 15-inch (M2)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2023,
+      "segment": "Ultrabook / Premium",
+      "status": "Retail",
+      "notes": "First 15-inch Air"
+    },
+    "technical": {
+      "displayText": "15.3-inch",
+      "minDisplaySizeInches": 15.3,
+      "maxDisplaySizeInches": 15.3,
+      "cpuPlatform": "M2",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0024",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 14-inch (M3 family)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2023,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "M3 generation"
+    },
+    "technical": {
+      "displayText": "14.2-inch",
+      "minDisplaySizeInches": 14.2,
+      "maxDisplaySizeInches": 14.2,
+      "cpuPlatform": "M3 / M3 Pro / M3 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0025",
+    "manufacturer": "Dell",
+    "model": "XPS 15 9530",
+    "identity": {
+      "family": "XPS",
+      "launchYear": 2023,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "RTX 40 XPS"
+    },
+    "technical": {
+      "displayText": "15.6-inch",
+      "minDisplaySizeInches": 15.6,
+      "maxDisplaySizeInches": 15.6,
+      "cpuPlatform": "Intel 13th Gen",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "XPS|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0026",
+    "manufacturer": "Dell",
+    "model": "Alienware m18 R1",
+    "identity": {
+      "family": "Alienware m",
+      "launchYear": 2023,
+      "segment": "Desktop Replacement",
+      "status": "Retail",
+      "notes": "18-inch Alienware"
+    },
+    "technical": {
+      "displayText": "18-inch",
+      "minDisplaySizeInches": 18.0,
+      "maxDisplaySizeInches": 18.0,
+      "cpuPlatform": "Intel 13th HX / Ryzen 7045HX",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Alienware m|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0027",
+    "manufacturer": "Lenovo",
+    "model": "Legion Pro 7i Gen 8",
+    "identity": {
+      "family": "Legion Pro",
+      "launchYear": 2023,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "notes": "Gen 8"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Intel 13th HX",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Legion Pro|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0028",
+    "manufacturer": "ASUS",
+    "model": "ROG Strix SCAR 18 (2023)",
+    "identity": {
+      "family": "ROG Strix SCAR",
+      "launchYear": 2023,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "notes": "18-inch SCAR"
+    },
+    "technical": {
+      "displayText": "18-inch",
+      "minDisplaySizeInches": 18.0,
+      "maxDisplaySizeInches": 18.0,
+      "cpuPlatform": "Intel 13th HX",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "ROG Strix SCAR|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0029",
+    "manufacturer": "Acer",
+    "model": "Predator Helios 16 (2023)",
+    "identity": {
+      "family": "Predator Helios",
+      "launchYear": 2023,
+      "segment": "Gaming",
+      "status": "Retail",
+      "notes": "New 16-inch Helios"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Intel 13th HX",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Predator Helios|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.acer.com/us-en/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0030",
+    "manufacturer": "Razer",
+    "model": "Blade 16 (2023)",
+    "identity": {
+      "family": "Blade",
+      "launchYear": 2023,
+      "segment": "Gaming / Premium",
+      "status": "Retail",
+      "notes": "New 16-inch Blade"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Intel 13th HX",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Blade|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.razer.com/gaming-laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0031",
+    "manufacturer": "Apple",
+    "model": "MacBook Air 13-inch (M3)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2024,
+      "segment": "Ultrabook / Premium",
+      "status": "Retail",
+      "notes": "M3 Air"
+    },
+    "technical": {
+      "displayText": "13.6-inch",
+      "minDisplaySizeInches": 13.6,
+      "maxDisplaySizeInches": 13.6,
+      "cpuPlatform": "M3",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0032",
+    "manufacturer": "Apple",
+    "model": "MacBook Air 15-inch (M3)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2024,
+      "segment": "Ultrabook / Premium",
+      "status": "Retail",
+      "notes": "15-inch M3"
+    },
+    "technical": {
+      "displayText": "15.3-inch",
+      "minDisplaySizeInches": 15.3,
+      "maxDisplaySizeInches": 15.3,
+      "cpuPlatform": "M3",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0033",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 14-inch (2024)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2024,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "M4 generation"
+    },
+    "technical": {
+      "displayText": "14.2-inch",
+      "minDisplaySizeInches": 14.2,
+      "maxDisplaySizeInches": 14.2,
+      "cpuPlatform": "M4 / M4 Pro / M4 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0034",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 16-inch (2024)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2024,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "M4 Pro/Max"
+    },
+    "technical": {
+      "displayText": "16.2-inch",
+      "minDisplaySizeInches": 16.2,
+      "maxDisplaySizeInches": 16.2,
+      "cpuPlatform": "M4 Pro / M4 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0035",
+    "manufacturer": "Dell",
+    "model": "XPS 14 9440",
+    "identity": {
+      "family": "XPS",
+      "launchYear": 2024,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "New 14-inch XPS"
+    },
+    "technical": {
+      "displayText": "14.5-inch",
+      "minDisplaySizeInches": 14.5,
+      "maxDisplaySizeInches": 14.5,
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 4050-class",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "XPS|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0036",
+    "manufacturer": "Dell",
+    "model": "XPS 16 9640",
+    "identity": {
+      "family": "XPS",
+      "launchYear": 2024,
+      "segment": "Creator / Premium",
+      "status": "Retail",
+      "notes": "New 16-inch XPS"
+    },
+    "technical": {
+      "displayText": "16.3-inch",
+      "minDisplaySizeInches": 16.3,
+      "maxDisplaySizeInches": 16.3,
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "XPS|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0037",
+    "manufacturer": "Lenovo",
+    "model": "Legion 7i Gen 9",
+    "identity": {
+      "family": "Legion",
+      "launchYear": 2024,
+      "segment": "Gaming / Premium",
+      "status": "Retail",
+      "notes": "Gen 9"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Intel 14th Gen",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Legion|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0038",
+    "manufacturer": "HP",
+    "model": "OMEN Transcend 14",
+    "identity": {
+      "family": "OMEN Transcend",
+      "launchYear": 2024,
+      "segment": "Gaming / Thin",
+      "status": "Retail",
+      "notes": "Compact OLED gaming"
+    },
+    "technical": {
+      "displayText": "14-inch OLED",
+      "minDisplaySizeInches": 14.0,
+      "maxDisplaySizeInches": 14.0,
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": true,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "OMEN Transcend|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.hp.com/us-en/shop/vwa/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0039",
+    "manufacturer": "ASUS",
+    "model": "ROG Zephyrus G14 (2024)",
+    "identity": {
+      "family": "ROG Zephyrus",
+      "launchYear": 2024,
+      "segment": "Gaming / Thin",
+      "status": "Retail",
+      "notes": "Aluminum redesign"
+    },
+    "technical": {
+      "displayText": "14-inch OLED",
+      "minDisplaySizeInches": 14.0,
+      "maxDisplaySizeInches": 14.0,
+      "cpuPlatform": "Ryzen 8000",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": true,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "ROG Zephyrus|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0040",
+    "manufacturer": "ASUS",
+    "model": "ROG Zephyrus G16 (2024)",
+    "identity": {
+      "family": "ROG Zephyrus",
+      "launchYear": 2024,
+      "segment": "Gaming / Thin",
+      "status": "Retail",
+      "notes": "2024 G16"
+    },
+    "technical": {
+      "displayText": "16-inch OLED",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Core Ultra / Ryzen AI",
+      "gpuClass": "RTX 40 Laptop",
+      "normalizedGpuClass": "RTX 40 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": true,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "ROG Zephyrus|RTX 40 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0041",
+    "manufacturer": "Apple",
+    "model": "MacBook Air 13-inch (M4)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2025,
+      "segment": "Ultrabook / Premium",
+      "status": "Retail",
+      "notes": "M4 Air"
+    },
+    "technical": {
+      "displayText": "13.6-inch",
+      "minDisplaySizeInches": 13.6,
+      "maxDisplaySizeInches": 13.6,
+      "cpuPlatform": "M4",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0042",
+    "manufacturer": "Apple",
+    "model": "MacBook Air 15-inch (M4)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2025,
+      "segment": "Ultrabook / Premium",
+      "status": "Retail",
+      "notes": "15-inch M4"
+    },
+    "technical": {
+      "displayText": "15.3-inch",
+      "minDisplaySizeInches": 15.3,
+      "maxDisplaySizeInches": 15.3,
+      "cpuPlatform": "M4",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0043",
+    "manufacturer": "ASUS",
+    "model": "ROG Strix SCAR 18 (2025)",
+    "identity": {
+      "family": "ROG Strix SCAR",
+      "launchYear": 2025,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "notes": "RTX 5090-class"
+    },
+    "technical": {
+      "displayText": "18-inch",
+      "minDisplaySizeInches": 18.0,
+      "maxDisplaySizeInches": 18.0,
+      "cpuPlatform": "Core Ultra 9 275HX",
+      "gpuClass": "RTX 50 Laptop",
+      "normalizedGpuClass": "RTX 50 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "ROG Strix SCAR|RTX 50 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0044",
+    "manufacturer": "Dell",
+    "model": "Alienware Area-51 18 (2025)",
+    "identity": {
+      "family": "Alienware Area-51",
+      "launchYear": 2025,
+      "segment": "Desktop Replacement",
+      "status": "Retail",
+      "notes": "Area-51 revival"
+    },
+    "technical": {
+      "displayText": "18-inch",
+      "minDisplaySizeInches": 18.0,
+      "maxDisplaySizeInches": 18.0,
+      "cpuPlatform": "Core Ultra HX",
+      "gpuClass": "RTX 50 Laptop",
+      "normalizedGpuClass": "RTX 50 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Alienware Area-51|RTX 50 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/dell-laptops/scr/laptops"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0045",
+    "manufacturer": "Lenovo",
+    "model": "Legion Pro 7i Gen 10",
+    "identity": {
+      "family": "Legion Pro",
+      "launchYear": 2025,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "notes": "Gen 10"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Core Ultra HX",
+      "gpuClass": "RTX 50 Laptop",
+      "normalizedGpuClass": "RTX 50 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Legion Pro|RTX 50 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0046",
+    "manufacturer": "MSI",
+    "model": "Titan 18 HX AI (2025)",
+    "identity": {
+      "family": "Titan",
+      "launchYear": 2025,
+      "segment": "Desktop Replacement",
+      "status": "Retail",
+      "notes": "RTX 50 Titan"
+    },
+    "technical": {
+      "displayText": "18-inch",
+      "minDisplaySizeInches": 18.0,
+      "maxDisplaySizeInches": 18.0,
+      "cpuPlatform": "Core Ultra 9 HX",
+      "gpuClass": "RTX 50 Laptop",
+      "normalizedGpuClass": "RTX 50 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "Titan|RTX 50 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.msi.com/Laptop"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0047",
+    "manufacturer": "Apple",
+    "model": "MacBook Air 13-inch (M5)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2026,
+      "segment": "Ultrabook / Premium",
+      "status": "Current",
+      "notes": "2026 Air"
+    },
+    "technical": {
+      "displayText": "13.6-inch",
+      "minDisplaySizeInches": 13.6,
+      "maxDisplaySizeInches": 13.6,
+      "cpuPlatform": "M5",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": true,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0048",
+    "manufacturer": "Apple",
+    "model": "MacBook Air 15-inch (M5)",
+    "identity": {
+      "family": "MacBook Air",
+      "launchYear": 2026,
+      "segment": "Ultrabook / Premium",
+      "status": "Current",
+      "notes": "2026 Air"
+    },
+    "technical": {
+      "displayText": "15.3-inch",
+      "minDisplaySizeInches": 15.3,
+      "maxDisplaySizeInches": 15.3,
+      "cpuPlatform": "M5",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": true,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Air|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102869"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0049",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 14-inch (M5 Pro/Max)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2026,
+      "segment": "Creator / Premium",
+      "status": "Current",
+      "notes": "2026 pro chips"
+    },
+    "technical": {
+      "displayText": "14.2-inch",
+      "minDisplaySizeInches": 14.2,
+      "maxDisplaySizeInches": 14.2,
+      "cpuPlatform": "M5 Pro / M5 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": false,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0050",
+    "manufacturer": "Apple",
+    "model": "MacBook Pro 16-inch (M5 Pro/Max)",
+    "identity": {
+      "family": "MacBook Pro",
+      "launchYear": 2026,
+      "segment": "Creator / Premium",
+      "status": "Current",
+      "notes": "2026 16-inch Pro"
+    },
+    "technical": {
+      "displayText": "16.2-inch",
+      "minDisplaySizeInches": 16.2,
+      "maxDisplaySizeInches": 16.2,
+      "cpuPlatform": "M5 Pro / M5 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": true,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "MacBook Pro|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/108052"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0051",
+    "manufacturer": "ASUS",
+    "model": "ROG Strix G16 (2026)",
+    "identity": {
+      "family": "ROG Strix",
+      "launchYear": 2026,
+      "segment": "Gaming",
+      "status": "Current",
+      "notes": "300 Hz Nebula generation"
+    },
+    "technical": {
+      "displayText": "16-inch",
+      "minDisplaySizeInches": 16.0,
+      "maxDisplaySizeInches": 16.0,
+      "cpuPlatform": "Core Ultra 9 290HX Plus",
+      "gpuClass": "RTX 50 Laptop",
+      "normalizedGpuClass": "RTX 50 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": false,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "ROG Strix|RTX 50 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "LAP-0052",
+    "manufacturer": "ASUS",
+    "model": "ROG Strix G18 (2026)",
+    "identity": {
+      "family": "ROG Strix",
+      "launchYear": 2026,
+      "segment": "Enthusiast Gaming",
+      "status": "Current",
+      "notes": "2026 Strix 18"
+    },
+    "technical": {
+      "displayText": "18-inch",
+      "minDisplaySizeInches": 18.0,
+      "maxDisplaySizeInches": 18.0,
+      "cpuPlatform": "Core Ultra 9 290HX Plus",
+      "gpuClass": "RTX 50 Laptop",
+      "normalizedGpuClass": "RTX 50 Laptop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "businessClass": false,
+      "ultrabookClass": false,
+      "convertibleClass": false,
+      "desktopReplacementClass": true,
+      "premiumClass": false,
+      "thinClass": false,
+      "compactClass": false,
+      "largeDisplayClass": true,
+      "compatibilityKey": "ROG Strix|RTX 50 Laptop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://rog.asus.com/laptops/"
+      ],
+      "sourceScope": "Laptop List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  }
+]
