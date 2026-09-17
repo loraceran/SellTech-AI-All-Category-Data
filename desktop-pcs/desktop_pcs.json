@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "DPC-0001",
+    "manufacturer": "Apple",
+    "model": "iMac 24-inch (M1, 2021)",
+    "identity": {
+      "family": "iMac",
+      "launchYear": 2021,
+      "segment": "Premium All-in-One",
+      "status": "Retail",
+      "formFactor": "All-in-One",
+      "notes": "First 24-inch Apple-silicon iMac"
+    },
+    "technical": {
+      "cpuPlatform": "Apple M1",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": true,
+      "compactDesktop": false,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": true,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "iMac|All-in-One|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/116943"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0002",
+    "manufacturer": "Dell",
+    "model": "Alienware Aurora R12",
+    "identity": {
+      "family": "Aurora",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "11th-gen Aurora"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Aurora|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/gaming/alienware-desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0003",
+    "manufacturer": "Dell",
+    "model": "Alienware Aurora Ryzen Edition R10",
+    "identity": {
+      "family": "Aurora",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Ryzen refresh"
+    },
+    "technical": {
+      "cpuPlatform": "Ryzen 5000",
+      "gpuClass": "RTX 30 / RX 6000",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Aurora|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/gaming/alienware-desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0004",
+    "manufacturer": "HP",
+    "model": "OMEN 30L (2021 refresh)",
+    "identity": {
+      "family": "OMEN",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "2021 OMEN generation"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 11th / Ryzen 5000",
+      "gpuClass": "RTX 30 / RX 6000",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "OMEN|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.hp.com/us-en/shop/vwa/desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0005",
+    "manufacturer": "Lenovo",
+    "model": "Legion Tower 5 Gen 6",
+    "identity": {
+      "family": "Legion Tower",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Gen 6"
+    },
+    "technical": {
+      "cpuPlatform": "Ryzen 5000 / Intel 11th",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Legion Tower|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/desktops/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0006",
+    "manufacturer": "ASUS",
+    "model": "ROG Strix GA35 (2021 refresh)",
+    "identity": {
+      "family": "ROG Strix",
+      "launchYear": 2021,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "2021 refresh"
+    },
+    "technical": {
+      "cpuPlatform": "Ryzen 5000",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "ROG Strix|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.asus.com/displays-desktops/tower-pcs/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0007",
+    "manufacturer": "MSI",
+    "model": "MEG Aegis Ti5 11th",
+    "identity": {
+      "family": "Aegis",
+      "launchYear": 2021,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Flagship Aegis"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Aegis|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.msi.com/Desktop"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0008",
+    "manufacturer": "Acer",
+    "model": "Predator Orion 3000 PO3-630",
+    "identity": {
+      "family": "Predator Orion",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "2021 Orion"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 11th Gen",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Predator Orion|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.acer.com/us-en/desktops-and-all-in-ones"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0009",
+    "manufacturer": "Apple",
+    "model": "Mac Studio (M1 Max)",
+    "identity": {
+      "family": "Mac Studio",
+      "launchYear": 2022,
+      "segment": "Creator / Workstation",
+      "status": "Retail",
+      "formFactor": "Compact Desktop",
+      "notes": "First Mac Studio"
+    },
+    "technical": {
+      "cpuPlatform": "M1 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": true,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac Studio|Compact Desktop|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102231"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0010",
+    "manufacturer": "Apple",
+    "model": "Mac Studio (M1 Ultra)",
+    "identity": {
+      "family": "Mac Studio",
+      "launchYear": 2022,
+      "segment": "Creator / Workstation",
+      "status": "Retail",
+      "formFactor": "Compact Desktop",
+      "notes": "First Ultra desktop"
+    },
+    "technical": {
+      "cpuPlatform": "M1 Ultra",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": true,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac Studio|Compact Desktop|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102231"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0011",
+    "manufacturer": "Dell",
+    "model": "Alienware Aurora R13",
+    "identity": {
+      "family": "Aurora",
+      "launchYear": 2022,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Legend 2.0 chassis"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 12th Gen",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Aurora|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/gaming/alienware-desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0012",
+    "manufacturer": "Dell",
+    "model": "Alienware Aurora Ryzen Edition R14",
+    "identity": {
+      "family": "Aurora",
+      "launchYear": 2022,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Ryzen Legend 2.0"
+    },
+    "technical": {
+      "cpuPlatform": "Ryzen 5000",
+      "gpuClass": "RTX 30 / RX 6000",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": false,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Aurora|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/gaming/alienware-desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0013",
+    "manufacturer": "Dell",
+    "model": "XPS Desktop 8950",
+    "identity": {
+      "family": "XPS Desktop",
+      "launchYear": 2022,
+      "segment": "Premium / Creator",
+      "status": "Retail",
+      "formFactor": "Tower",
+      "notes": "Larger XPS redesign"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 12th Gen",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": false,
+      "premiumClass": true,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "XPS Desktop|Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/desktop-computers/scr/desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0014",
+    "manufacturer": "HP",
+    "model": "OMEN 45L",
+    "identity": {
+      "family": "OMEN",
+      "launchYear": 2022,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Cryo Chamber"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 12th / Ryzen 5000",
+      "gpuClass": "RTX 30 / RX 6000",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "OMEN|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.hp.com/us-en/shop/vwa/desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0015",
+    "manufacturer": "HP",
+    "model": "Victus 15L Desktop",
+    "identity": {
+      "family": "Victus",
+      "launchYear": 2022,
+      "segment": "Budget Gaming",
+      "status": "Retail",
+      "formFactor": "Compact Tower",
+      "notes": "Victus desktop family"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 12th / Ryzen 5000",
+      "gpuClass": "RTX / RX mainstream",
+      "normalizedGpuClass": "RTX / RX mainstream"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Victus|Compact Tower|RTX / RX mainstream"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.hp.com/us-en/shop/vwa/desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0016",
+    "manufacturer": "Lenovo",
+    "model": "Legion Tower 7i Gen 7",
+    "identity": {
+      "family": "Legion Tower",
+      "launchYear": 2022,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Gen 7"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 12th Gen",
+      "gpuClass": "RTX 30",
+      "normalizedGpuClass": "RTX 30 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Legion Tower|Gaming Tower|RTX 30 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/desktops/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0017",
+    "manufacturer": "Apple",
+    "model": "Mac mini (M2)",
+    "identity": {
+      "family": "Mac mini",
+      "launchYear": 2023,
+      "segment": "Mainstream / Compact",
+      "status": "Retail",
+      "formFactor": "Mini PC",
+      "notes": "M2 Mac mini"
+    },
+    "technical": {
+      "cpuPlatform": "M2",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": true,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac mini|Mini PC|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102852"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0018",
+    "manufacturer": "Apple",
+    "model": "Mac mini (M2 Pro)",
+    "identity": {
+      "family": "Mac mini",
+      "launchYear": 2023,
+      "segment": "Creator / Compact",
+      "status": "Retail",
+      "formFactor": "Mini PC",
+      "notes": "First Pro Mac mini"
+    },
+    "technical": {
+      "cpuPlatform": "M2 Pro",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac mini|Mini PC|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102852"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0019",
+    "manufacturer": "Apple",
+    "model": "Mac Studio (M2 Max)",
+    "identity": {
+      "family": "Mac Studio",
+      "launchYear": 2023,
+      "segment": "Creator / Workstation",
+      "status": "Retail",
+      "formFactor": "Compact Desktop",
+      "notes": "Second Studio generation"
+    },
+    "technical": {
+      "cpuPlatform": "M2 Max",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": true,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac Studio|Compact Desktop|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102231"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0020",
+    "manufacturer": "Apple",
+    "model": "Mac Studio (M2 Ultra)",
+    "identity": {
+      "family": "Mac Studio",
+      "launchYear": 2023,
+      "segment": "Creator / Workstation",
+      "status": "Retail",
+      "formFactor": "Compact Desktop",
+      "notes": "M2 Ultra Studio"
+    },
+    "technical": {
+      "cpuPlatform": "M2 Ultra",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": true,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac Studio|Compact Desktop|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102231"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0021",
+    "manufacturer": "Apple",
+    "model": "Mac Pro (M2 Ultra)",
+    "identity": {
+      "family": "Mac Pro",
+      "launchYear": 2023,
+      "segment": "Workstation",
+      "status": "Retail",
+      "formFactor": "Workstation Tower",
+      "notes": "Apple-silicon Mac Pro"
+    },
+    "technical": {
+      "cpuPlatform": "M2 Ultra",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "workstationClass": true,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac Pro|Workstation Tower|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/116943"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0022",
+    "manufacturer": "Apple",
+    "model": "iMac 24-inch (M3)",
+    "identity": {
+      "family": "iMac",
+      "launchYear": 2023,
+      "segment": "Premium All-in-One",
+      "status": "Retail",
+      "formFactor": "All-in-One",
+      "notes": "M3 iMac"
+    },
+    "technical": {
+      "cpuPlatform": "M3",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": true,
+      "compactDesktop": false,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": true,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "iMac|All-in-One|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/116943"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0023",
+    "manufacturer": "Dell",
+    "model": "Alienware Aurora R16",
+    "identity": {
+      "family": "Aurora",
+      "launchYear": 2023,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Smaller redesigned Aurora"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 13th / 14th",
+      "gpuClass": "RTX 40",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Aurora|Gaming Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/gaming/alienware-desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0024",
+    "manufacturer": "Dell",
+    "model": "XPS Desktop 8960",
+    "identity": {
+      "family": "XPS Desktop",
+      "launchYear": 2023,
+      "segment": "Premium / Creator",
+      "status": "Retail",
+      "formFactor": "Tower",
+      "notes": "Modern XPS tower"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 13th / 14th",
+      "gpuClass": "RTX 40",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": false,
+      "premiumClass": true,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "XPS Desktop|Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/shop/desktop-computers/scr/desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0025",
+    "manufacturer": "Lenovo",
+    "model": "Legion Tower 7i Gen 8",
+    "identity": {
+      "family": "Legion Tower",
+      "launchYear": 2023,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Gen 8"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 13th Gen",
+      "gpuClass": "RTX 40",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Legion Tower|Gaming Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/desktops/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0026",
+    "manufacturer": "ASUS",
+    "model": "ROG G22CH",
+    "identity": {
+      "family": "ROG Desktop",
+      "launchYear": 2023,
+      "segment": "Gaming / Compact",
+      "status": "Retail",
+      "formFactor": "Compact Gaming Tower",
+      "notes": "Compact ROG desktop"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 13th Gen",
+      "gpuClass": "RTX 40",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "ROG Desktop|Compact Gaming Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.asus.com/displays-desktops/tower-pcs/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0027",
+    "manufacturer": "Acer",
+    "model": "Predator Orion X",
+    "identity": {
+      "family": "Predator Orion",
+      "launchYear": 2023,
+      "segment": "Enthusiast / Compact",
+      "status": "Retail",
+      "formFactor": "Compact Gaming Tower",
+      "notes": "Modular-zone design"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 13th Gen",
+      "gpuClass": "RTX 40",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Predator Orion|Compact Gaming Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.acer.com/us-en/desktops-and-all-in-ones"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0028",
+    "manufacturer": "Apple",
+    "model": "Mac mini (M4)",
+    "identity": {
+      "family": "Mac mini",
+      "launchYear": 2024,
+      "segment": "Mainstream / Compact",
+      "status": "Retail",
+      "formFactor": "Mini PC",
+      "notes": "Major redesign"
+    },
+    "technical": {
+      "cpuPlatform": "M4",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": true,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac mini|Mini PC|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102852"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0029",
+    "manufacturer": "Apple",
+    "model": "Mac mini (M4 Pro)",
+    "identity": {
+      "family": "Mac mini",
+      "launchYear": 2024,
+      "segment": "Creator / Compact",
+      "status": "Retail",
+      "formFactor": "Mini PC",
+      "notes": "M4 Pro mini"
+    },
+    "technical": {
+      "cpuPlatform": "M4 Pro",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac mini|Mini PC|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102852"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0030",
+    "manufacturer": "Apple",
+    "model": "iMac 24-inch (M4)",
+    "identity": {
+      "family": "iMac",
+      "launchYear": 2024,
+      "segment": "Premium All-in-One",
+      "status": "Retail",
+      "formFactor": "All-in-One",
+      "notes": "M4 iMac"
+    },
+    "technical": {
+      "cpuPlatform": "M4",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": true,
+      "compactDesktop": false,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": true,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "iMac|All-in-One|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/116943"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0031",
+    "manufacturer": "HP",
+    "model": "OMEN 35L",
+    "identity": {
+      "family": "OMEN",
+      "launchYear": 2024,
+      "segment": "Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Newer compact OMEN platform"
+    },
+    "technical": {
+      "cpuPlatform": "Core Ultra / Ryzen",
+      "gpuClass": "RTX 40",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": true,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "OMEN|Gaming Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.hp.com/us-en/shop/vwa/desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0032",
+    "manufacturer": "Lenovo",
+    "model": "Legion Tower 7i Gen 9",
+    "identity": {
+      "family": "Legion Tower",
+      "launchYear": 2024,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Gen 9"
+    },
+    "technical": {
+      "cpuPlatform": "Intel 14th Gen",
+      "gpuClass": "RTX 40",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Legion Tower|Gaming Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/desktops/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0033",
+    "manufacturer": "MSI",
+    "model": "MEG Vision X AI",
+    "identity": {
+      "family": "Vision",
+      "launchYear": 2024,
+      "segment": "Enthusiast / AI",
+      "status": "Retail",
+      "formFactor": "Showcase Gaming Tower",
+      "notes": "Panoramic AI desktop"
+    },
+    "technical": {
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 40 / 50-class",
+      "normalizedGpuClass": "RTX 40 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Vision|Showcase Gaming Tower|RTX 40 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.msi.com/Desktop"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0034",
+    "manufacturer": "Apple",
+    "model": "Mac Studio (2025)",
+    "identity": {
+      "family": "Mac Studio",
+      "launchYear": 2025,
+      "segment": "Creator / Workstation",
+      "status": "Retail",
+      "formFactor": "Compact Desktop",
+      "notes": "2025 generation"
+    },
+    "technical": {
+      "cpuPlatform": "M4 Max / M3 Ultra",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": true,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac Studio|Compact Desktop|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/102231"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0035",
+    "manufacturer": "Dell",
+    "model": "Alienware Area-51 Desktop (2025)",
+    "identity": {
+      "family": "Area-51",
+      "launchYear": 2025,
+      "segment": "Flagship Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Area-51 revival"
+    },
+    "technical": {
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 50",
+      "normalizedGpuClass": "RTX 50 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Area-51|Gaming Tower|RTX 50 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.dell.com/en-us/gaming/alienware-desktops"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0036",
+    "manufacturer": "Lenovo",
+    "model": "Legion Tower 7i Gen 10",
+    "identity": {
+      "family": "Legion Tower",
+      "launchYear": 2025,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "Gen 10"
+    },
+    "technical": {
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 50",
+      "normalizedGpuClass": "RTX 50 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Legion Tower|Gaming Tower|RTX 50 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lenovo.com/us/en/c/desktops/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0037",
+    "manufacturer": "ASUS",
+    "model": "ROG G700 (2025)",
+    "identity": {
+      "family": "ROG Desktop",
+      "launchYear": 2025,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "2025 ROG large tower"
+    },
+    "technical": {
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 50",
+      "normalizedGpuClass": "RTX 50 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "ROG Desktop|Gaming Tower|RTX 50 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.asus.com/displays-desktops/tower-pcs/"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0038",
+    "manufacturer": "Acer",
+    "model": "Predator Orion 7000 (2025)",
+    "identity": {
+      "family": "Predator Orion",
+      "launchYear": 2025,
+      "segment": "Enthusiast Gaming",
+      "status": "Retail",
+      "formFactor": "Gaming Tower",
+      "notes": "RTX 50 generation"
+    },
+    "technical": {
+      "cpuPlatform": "Intel Core Ultra",
+      "gpuClass": "RTX 50",
+      "normalizedGpuClass": "RTX 50 Desktop"
+    },
+    "capabilities": {
+      "appleSilicon": false,
+      "intelPlatform": true,
+      "amdPlatform": false,
+      "integratedGraphics": false,
+      "discreteGraphics": true,
+      "allInOne": false,
+      "compactDesktop": false,
+      "towerDesktop": true
+    },
+    "derivedBase": {
+      "gamingClass": true,
+      "creatorClass": false,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": true,
+      "compatibilityKey": "Predator Orion|Gaming Tower|RTX 50 Desktop"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.acer.com/us-en/desktops-and-all-in-ones"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0039",
+    "manufacturer": "Apple",
+    "model": "Mac mini (M6 / M5 Pro)",
+    "identity": {
+      "family": "Mac mini",
+      "launchYear": 2026,
+      "segment": "Compact / Creator",
+      "status": "Current",
+      "formFactor": "Mini PC",
+      "notes": "Listed by Apple in 2026"
+    },
+    "technical": {
+      "cpuPlatform": "M6 / M5 Pro",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": false,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac mini|Mini PC|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/116943"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "DPC-0040",
+    "manufacturer": "Apple",
+    "model": "Mac Studio (M5 Max / M5 Ultra)",
+    "identity": {
+      "family": "Mac Studio",
+      "launchYear": 2026,
+      "segment": "Creator / Workstation",
+      "status": "Current",
+      "formFactor": "Compact Desktop",
+      "notes": "2026 Studio generation"
+    },
+    "technical": {
+      "cpuPlatform": "M5 Max / M5 Ultra",
+      "gpuClass": "Apple integrated",
+      "normalizedGpuClass": "Apple Integrated"
+    },
+    "capabilities": {
+      "appleSilicon": true,
+      "intelPlatform": false,
+      "amdPlatform": false,
+      "integratedGraphics": true,
+      "discreteGraphics": false,
+      "allInOne": false,
+      "compactDesktop": true,
+      "towerDesktop": false
+    },
+    "derivedBase": {
+      "gamingClass": false,
+      "creatorClass": true,
+      "workstationClass": true,
+      "premiumClass": false,
+      "mainstreamClass": false,
+      "enthusiastClass": false,
+      "compatibilityKey": "Mac Studio|Compact Desktop|Apple Integrated"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://support.apple.com/en-us/116943"
+      ],
+      "sourceScope": "Desktop PC List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "SOURCE_LEVEL",
+      "verifiedAt": "2026-09-17"
+    }
+  }
+]
