@@ -1,0 +1,3089 @@
+[
+  {
+    "id": "RAM-0001",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG LANCER DDR5",
+    "identity": {
+      "familySeries": "XPG LANCER DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-2022",
+      "launchYear": 2021,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Core XPG DDR5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5200–7200+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 7200,
+      "typicalCapacitiesText": "16–64+ GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0002",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG LANCER RGB DDR5",
+    "identity": {
+      "familySeries": "XPG LANCER RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-2022",
+      "launchYear": 2021,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "RGB LANCER family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5200–7200+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 7200,
+      "typicalCapacitiesText": "16–64+ GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0003",
+    "manufacturer": "Corsair",
+    "model": "Dominator Platinum RGB DDR5",
+    "identity": {
+      "familySeries": "Dominator Platinum RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-10-27",
+      "launchYear": 2021,
+      "segment": "Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "Flagship DDR5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "4800–8000+ MT/s",
+      "minSpeedMt": 4800,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–192 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 192
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/introducing-corsair-ddr5-memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0004",
+    "manufacturer": "Corsair",
+    "model": "Vengeance DDR5",
+    "identity": {
+      "familySeries": "Vengeance DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-10-27",
+      "launchYear": 2021,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "Intel / broad",
+      "notes": "Low-profile non-RGB DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "4800–7000+ MT/s",
+      "minSpeedMt": 4800,
+      "maxSpeedMt": 7000,
+      "typicalCapacitiesText": "32–192 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 192
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/introducing-corsair-ddr5-memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0005",
+    "manufacturer": "G.SKILL",
+    "model": "Ripjaws S5",
+    "identity": {
+      "familySeries": "Ripjaws S5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-10-22",
+      "launchYear": 2021,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "Intel",
+      "notes": "Low-profile DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "4800–6800+ MT/s",
+      "minSpeedMt": 4800,
+      "maxSpeedMt": 6800,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1634896664/G.SKILL-Announces-New-Ripjaws-S5-Series-Low-Profile-Performance-DDR5-Memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0006",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5",
+    "identity": {
+      "familySeries": "Trident Z5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-10-13",
+      "launchYear": 2021,
+      "segment": "Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "Flagship non-RGB DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "5600–8000+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1634179023/G.SKILL-Announces-Flagship-Trident-Z5-Family-DDR5-Memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0007",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5 RGB",
+    "identity": {
+      "familySeries": "Trident Z5 RGB",
+      "generation": "DDR5",
+      "launchPeriod": "2021-10-13",
+      "launchYear": 2021,
+      "segment": "Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "Flagship RGB DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "5600–8000+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1634179023/G.SKILL-Announces-Flagship-Trident-Z5-Family-DDR5-Memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0008",
+    "manufacturer": "Kingston",
+    "model": "FURY Beast DDR5",
+    "identity": {
+      "familySeries": "FURY Beast DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-10-27",
+      "launchYear": 2021,
+      "segment": "Mainstream / Gaming",
+      "targetPlatform": "Intel / broad",
+      "notes": "Original Kingston FURY DDR5 retail family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "4800–6800 MT/s",
+      "minSpeedMt": 4800,
+      "maxSpeedMt": 6800,
+      "typicalCapacitiesText": "16–128 GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 128
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/64844"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0009",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE DELTA RGB DDR5",
+    "identity": {
+      "familySeries": "T-FORCE DELTA RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-11-16",
+      "launchYear": 2021,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Major RGB DDR5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5200–8000+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–128 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 128
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0010",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE VULCAN DDR5",
+    "identity": {
+      "familySeries": "T-FORCE VULCAN DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2021-11-16",
+      "launchYear": 2021,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Low-profile DDR5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "4800–7000+ MT/s",
+      "minSpeedMt": 4800,
+      "maxSpeedMt": 7000,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0011",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG CASTER DDR5",
+    "identity": {
+      "familySeries": "XPG CASTER DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Performance",
+      "targetPlatform": "Intel",
+      "notes": "Angular heatspreader design"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "6000–6400 MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "16–64 GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0012",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG CASTER RGB DDR5",
+    "identity": {
+      "familySeries": "XPG CASTER RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Performance",
+      "targetPlatform": "Intel",
+      "notes": "RGB CASTER family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "6000–6400 MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "16–64 GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0013",
+    "manufacturer": "Corsair",
+    "model": "Dominator Platinum RGB DDR5 for AMD",
+    "identity": {
+      "familySeries": "Dominator Platinum RGB DDR5 for AMD",
+      "generation": "DDR5",
+      "launchPeriod": "2022-08-29",
+      "launchYear": 2022,
+      "segment": "Enthusiast",
+      "targetPlatform": "AMD AM5",
+      "notes": "AMD EXPO tuned"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5200–6000+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/overclock-with-ease-using-amd-expo-and-corsair-ddr5-memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0014",
+    "manufacturer": "Corsair",
+    "model": "Vengeance DDR5 for AMD",
+    "identity": {
+      "familySeries": "Vengeance DDR5 for AMD",
+      "generation": "DDR5",
+      "launchPeriod": "2022-08-29",
+      "launchYear": 2022,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "AMD AM5",
+      "notes": "AMD EXPO tuned"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5200–6000+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/overclock-with-ease-using-amd-expo-and-corsair-ddr5-memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0015",
+    "manufacturer": "Corsair",
+    "model": "Vengeance RGB DDR5",
+    "identity": {
+      "familySeries": "Vengeance RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "Intel",
+      "notes": "RGB Vengeance DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "5200–7000+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 7000,
+      "typicalCapacitiesText": "32–192 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 192
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/pushing-the-boundaries-of-ddr5-corsair-launches-new-48gb-96gb-and-192gb-memory-kits"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0016",
+    "manufacturer": "Corsair",
+    "model": "Vengeance RGB DDR5 for AMD",
+    "identity": {
+      "familySeries": "Vengeance RGB DDR5 for AMD",
+      "generation": "DDR5",
+      "launchPeriod": "2022-08-29",
+      "launchYear": 2022,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "AMD AM5",
+      "notes": "AMD EXPO tuned"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5200–6000+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/overclock-with-ease-using-amd-expo-and-corsair-ddr5-memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0017",
+    "manufacturer": "G.SKILL",
+    "model": "Flare X5",
+    "identity": {
+      "familySeries": "Flare X5",
+      "generation": "DDR5",
+      "launchPeriod": "2022-08-30",
+      "launchYear": 2022,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "AMD AM5",
+      "notes": "Low-profile AM5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5200–6400+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1661825099/G.SKILL-Announces-Trident-Z5-Neo-Flare-X5-Series-DDR5-Memory-Designed-for-AMD-Ryzen-7000-Series-Processors"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0018",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5 Neo",
+    "identity": {
+      "familySeries": "Trident Z5 Neo",
+      "generation": "DDR5",
+      "launchPeriod": "2022-08-30",
+      "launchYear": 2022,
+      "segment": "Enthusiast",
+      "targetPlatform": "AMD AM5",
+      "notes": "AMD EXPO tuned"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5600–6400+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1661825099/G.SKILL-Announces-Trident-Z5-Neo-Flare-X5-Series-DDR5-Memory-Designed-for-AMD-Ryzen-7000-Series-Processors"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0019",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5 Neo RGB",
+    "identity": {
+      "familySeries": "Trident Z5 Neo RGB",
+      "generation": "DDR5",
+      "launchPeriod": "2022-08-30",
+      "launchYear": 2022,
+      "segment": "Enthusiast",
+      "targetPlatform": "AMD AM5",
+      "notes": "RGB AMD EXPO"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5600–6400+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1661825099/G.SKILL-Announces-Trident-Z5-Neo-Flare-X5-Series-DDR5-Memory-Designed-for-AMD-Ryzen-7000-Series-Processors"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0020",
+    "manufacturer": "Kingston",
+    "model": "FURY Beast DDR5 EXPO",
+    "identity": {
+      "familySeries": "FURY Beast DDR5 EXPO",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream / Gaming",
+      "targetPlatform": "AMD AM5",
+      "notes": "AMD EXPO-tuned Beast DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5200–6000+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "16–128 GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 128
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/64844"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0021",
+    "manufacturer": "Kingston",
+    "model": "FURY Beast DDR5 RGB",
+    "identity": {
+      "familySeries": "FURY Beast DDR5 RGB",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream / Gaming",
+      "targetPlatform": "Intel / broad",
+      "notes": "RGB variant of Beast DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "4800–6800 MT/s",
+      "minSpeedMt": 4800,
+      "maxSpeedMt": 6800,
+      "typicalCapacitiesText": "16–128 GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 128
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/64844"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0022",
+    "manufacturer": "Kingston",
+    "model": "FURY Beast DDR5 RGB EXPO",
+    "identity": {
+      "familySeries": "FURY Beast DDR5 RGB EXPO",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream / Gaming",
+      "targetPlatform": "AMD AM5",
+      "notes": "RGB AMD EXPO family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5200–6000+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "16–128 GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 128
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/64844"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0023",
+    "manufacturer": "Kingston",
+    "model": "FURY Renegade DDR5",
+    "identity": {
+      "familySeries": "FURY Renegade DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "High-performance Renegade family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "6000–8000+ MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/74557"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0024",
+    "manufacturer": "Kingston",
+    "model": "FURY Renegade DDR5 RGB",
+    "identity": {
+      "familySeries": "FURY Renegade DDR5 RGB",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "RGB Renegade family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "6000–8000+ MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/74557"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0025",
+    "manufacturer": "Patriot",
+    "model": "Viper Venom DDR5",
+    "identity": {
+      "familySeries": "Viper Venom DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Main Viper DDR5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5200–7400+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 7400,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.patriotmemory.com/newsroom/patriot-memory-to-unveil-next-gen-ai-memory-and-storage-infrastructure-at-computex-2026"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0026",
+    "manufacturer": "Patriot",
+    "model": "Viper Venom RGB DDR5",
+    "identity": {
+      "familySeries": "Viper Venom RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "RGB Venom family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5200–7400+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 7400,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.patriotmemory.com/newsroom/patriot-memory-to-unveil-next-gen-ai-memory-and-storage-infrastructure-at-computex-2026"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0027",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE DELTA RGB DDR5 Alpha",
+    "identity": {
+      "familySeries": "T-FORCE DELTA RGB DDR5 Alpha",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "AMD AM5",
+      "notes": "AMD-optimized DELTA variant"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5600–6400+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0028",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE VULCAN Alpha DDR5",
+    "identity": {
+      "familySeries": "T-FORCE VULCAN Alpha DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "AMD AM5",
+      "notes": "AMD-optimized VULCAN"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "AMD EXPO",
+      "speedRangeText": "5600–6000+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0029",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG LANCER BLADE DDR5",
+    "identity": {
+      "familySeries": "XPG LANCER BLADE DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Low-profile LANCER variant"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0 / EXPO",
+      "speedRangeText": "6000–6400+ MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0030",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG LANCER BLADE RGB DDR5",
+    "identity": {
+      "familySeries": "XPG LANCER BLADE RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Low-profile RGB variant"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO",
+      "speedRangeText": "6000–6400+ MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0031",
+    "manufacturer": "Corsair",
+    "model": "Dominator Titanium RGB DDR5",
+    "identity": {
+      "familySeries": "Dominator Titanium RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Premium / Enthusiast",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Premium modular top-bar design"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "6000–8000+ MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/pushing-the-boundaries-of-ddr5-corsair-launches-new-48gb-96gb-and-192gb-memory-kits"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0032",
+    "manufacturer": "Corsair",
+    "model": "Vengeance DDR5 24/48GB-module kits",
+    "identity": {
+      "familySeries": "Vengeance DDR5 24/48GB-module kits",
+      "generation": "DDR5",
+      "launchPeriod": "2023-02-21",
+      "launchYear": 2023,
+      "segment": "High Capacity",
+      "targetPlatform": "Intel / broad",
+      "notes": "24GB and 48GB module generation"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "5200–5600+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 5600,
+      "typicalCapacitiesText": "48 / 96 / 192 GB",
+      "minTypicalCapacityGb": 48,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/pushing-the-boundaries-of-ddr5-corsair-launches-new-48gb-96gb-and-192gb-memory-kits"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0033",
+    "manufacturer": "Corsair",
+    "model": "Vengeance RGB DDR5 24/48GB-module kits",
+    "identity": {
+      "familySeries": "Vengeance RGB DDR5 24/48GB-module kits",
+      "generation": "DDR5",
+      "launchPeriod": "2023-02-21",
+      "launchYear": 2023,
+      "segment": "High Capacity",
+      "targetPlatform": "Intel / broad",
+      "notes": "High-capacity RGB generation"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "5200–5600+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 5600,
+      "typicalCapacitiesText": "48 / 96 / 192 GB",
+      "minTypicalCapacityGb": 48,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/pushing-the-boundaries-of-ddr5-corsair-launches-new-48gb-96gb-and-192gb-memory-kits"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0034",
+    "manufacturer": "Lexar",
+    "model": "ARES DDR5 OC",
+    "identity": {
+      "familySeries": "ARES DDR5 OC",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Performance / Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "ARES overclock desktop memory"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "5200–6400+ MT/s",
+      "minSpeedMt": 5200,
+      "maxSpeedMt": 6400,
+      "typicalCapacitiesText": "16–32+ GB kits",
+      "minTypicalCapacityGb": 16,
+      "maxTypicalCapacityGb": 32
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/products/Lexar-ARES-DDR5-OC-Desktop-Memory/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0035",
+    "manufacturer": "Lexar",
+    "model": "ARES RGB DDR5",
+    "identity": {
+      "familySeries": "ARES RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023-2024",
+      "launchYear": 2023,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "RGB ARES family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5600–7200+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 7200,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/products/Lexar-ARES-DDR5-OC-Desktop-Memory/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0036",
+    "manufacturer": "Patriot",
+    "model": "Viper Elite 5 DDR5",
+    "identity": {
+      "familySeries": "Viper Elite 5 DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Midrange DDR5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5600–7000+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 7000,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.patriotmemory.com/newsroom/patriot-memory-to-unveil-next-gen-ai-memory-and-storage-infrastructure-at-computex-2026"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0037",
+    "manufacturer": "Patriot",
+    "model": "Viper Elite 5 RGB DDR5",
+    "identity": {
+      "familySeries": "Viper Elite 5 RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023-2024",
+      "launchYear": 2023,
+      "segment": "Gaming / Performance",
+      "targetPlatform": "Intel / AMD",
+      "notes": "RGB Elite 5 family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO variants",
+      "speedRangeText": "5600–7000+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 7000,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.patriotmemory.com/newsroom/patriot-memory-to-unveil-next-gen-ai-memory-and-storage-infrastructure-at-computex-2026"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0038",
+    "manufacturer": "Patriot",
+    "model": "Viper Xtreme 5 DDR5",
+    "identity": {
+      "familySeries": "Viper Xtreme 5 DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "High-frequency flagship generation"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "7600–8200+ MT/s",
+      "minSpeedMt": 7600,
+      "maxSpeedMt": 8200,
+      "typicalCapacitiesText": "32–48+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 48
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.patriotmemory.com/newsroom/patriot-memory-to-unveil-next-gen-ai-memory-and-storage-infrastructure-at-computex-2026"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0039",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-CREATE EXPERT DDR5",
+    "identity": {
+      "familySeries": "T-CREATE EXPERT DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Creator / High Capacity",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Creator-focused DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP / EXPO variants",
+      "speedRangeText": "5600–7200+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 7200,
+      "typicalCapacitiesText": "32–128+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 128
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0040",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE XTREEM ARGB DDR5",
+    "identity": {
+      "familySeries": "T-FORCE XTREEM ARGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023-2024",
+      "launchYear": 2023,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "ARGB XTREEM family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "7600–8200+ MT/s",
+      "minSpeedMt": 7600,
+      "maxSpeedMt": 8200,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0041",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE XTREEM DDR5",
+    "identity": {
+      "familySeries": "T-FORCE XTREEM DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "High-frequency premium family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "7600–8200+ MT/s",
+      "minSpeedMt": 7600,
+      "maxSpeedMt": 8200,
+      "typicalCapacitiesText": "32–96 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0042",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG LANCER CUDIMM RGB",
+    "identity": {
+      "familySeries": "XPG LANCER CUDIMM RGB",
+      "generation": "DDR5",
+      "launchPeriod": "2024-2025",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel Z890",
+      "notes": "Clocked DIMM XPG line"
+    },
+    "technical": {
+      "moduleType": "CUDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "8000+ MT/s",
+      "minSpeedMt": 8000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "48–96 GB kits",
+      "minTypicalCapacityGb": 48,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": true
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|CUDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0043",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG LANCER NEON RGB DDR5",
+    "identity": {
+      "familySeries": "XPG LANCER NEON RGB DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2024-2025",
+      "launchYear": 2024,
+      "segment": "Gaming / Enthusiast",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Premium RGB family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO",
+      "speedRangeText": "6000–8000+ MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://webapi3.adata.com/storage/downloadfile/XPG-2025-CATALOGUE.pdf"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0044",
+    "manufacturer": "Corsair",
+    "model": "Vengeance DDR5 CUDIMM",
+    "identity": {
+      "familySeries": "Vengeance DDR5 CUDIMM",
+      "generation": "DDR5",
+      "launchPeriod": "2024-2025",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel Z890",
+      "notes": "Non-RGB CUDIMM"
+    },
+    "technical": {
+      "moduleType": "CUDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "8000–9000+ MT/s",
+      "minSpeedMt": 8000,
+      "maxSpeedMt": 9000,
+      "typicalCapacitiesText": "48–96 GB kits",
+      "minTypicalCapacityGb": 48,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": true
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|CUDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/corsair-vengeance-rgb-ddr5-cudimms-deliver-cutting-edge-performance-with-a-bold-modern-aesthetic"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0045",
+    "manufacturer": "Corsair",
+    "model": "Vengeance RGB DDR5 CUDIMM",
+    "identity": {
+      "familySeries": "Vengeance RGB DDR5 CUDIMM",
+      "generation": "DDR5",
+      "launchPeriod": "2024-12-03",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel Z890",
+      "notes": "Clocked UDIMM family"
+    },
+    "technical": {
+      "moduleType": "CUDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "8400–9200+ MT/s",
+      "minSpeedMt": 8400,
+      "maxSpeedMt": 9200,
+      "typicalCapacitiesText": "48–96 GB kits",
+      "minTypicalCapacityGb": 48,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": true
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|CUDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/corsair-vengeance-rgb-ddr5-cudimms-deliver-cutting-edge-performance-with-a-bold-modern-aesthetic"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0046",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5 CK / CK RGB",
+    "identity": {
+      "familySeries": "Trident Z5 CK / CK RGB",
+      "generation": "DDR5",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel Z890",
+      "notes": "CUDIMM generation"
+    },
+    "technical": {
+      "moduleType": "CUDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "8200–9600+ MT/s",
+      "minSpeedMt": 8200,
+      "maxSpeedMt": 9600,
+      "typicalCapacitiesText": "48–96 GB kits",
+      "minTypicalCapacityGb": 48,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": true
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|CUDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1634179023/G.SKILL-Announces-Flagship-Trident-Z5-Family-DDR5-Memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0047",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5 Royal",
+    "identity": {
+      "familySeries": "Trident Z5 Royal",
+      "generation": "DDR5",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Premium / Enthusiast",
+      "targetPlatform": "Intel",
+      "notes": "Luxury-polished flagship"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "7200–8400+ MT/s",
+      "minSpeedMt": 7200,
+      "maxSpeedMt": 8400,
+      "typicalCapacitiesText": "32–96+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1634179023/G.SKILL-Announces-Flagship-Trident-Z5-Family-DDR5-Memory"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0048",
+    "manufacturer": "Kingston",
+    "model": "FURY Renegade DDR5 CUDIMM",
+    "identity": {
+      "familySeries": "FURY Renegade DDR5 CUDIMM",
+      "generation": "DDR5",
+      "launchPeriod": "2024-10",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel Z890 / 800-series",
+      "notes": "Clock-driver high-frequency memory"
+    },
+    "technical": {
+      "moduleType": "CUDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "8400+ MT/s",
+      "minSpeedMt": 8400,
+      "maxSpeedMt": 8400,
+      "typicalCapacitiesText": "24–48+ GB kits",
+      "minTypicalCapacityGb": 24,
+      "maxTypicalCapacityGb": 48
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": true
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|CUDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/74557"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0049",
+    "manufacturer": "Kingston",
+    "model": "FURY Renegade RGB DDR5 CUDIMM",
+    "identity": {
+      "familySeries": "FURY Renegade RGB DDR5 CUDIMM",
+      "generation": "DDR5",
+      "launchPeriod": "2024-10",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel Z890 / 800-series",
+      "notes": "RGB CUDIMM family"
+    },
+    "technical": {
+      "moduleType": "CUDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "8400+ MT/s",
+      "minSpeedMt": 8400,
+      "maxSpeedMt": 8400,
+      "typicalCapacitiesText": "24–48+ GB kits",
+      "minTypicalCapacityGb": 24,
+      "maxTypicalCapacityGb": 48
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": true
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|CUDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/74557"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0050",
+    "manufacturer": "Lexar",
+    "model": "THOR OC DDR5",
+    "identity": {
+      "familySeries": "THOR OC DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "Intel",
+      "notes": "Low-profile THOR DDR5"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "5600–6000+ MT/s",
+      "minSpeedMt": 5600,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "32–64 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/products/Lexar-ARES-DDR5-OC-Desktop-Memory/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0051",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE DELTA RGB DDR5 CUDIMM",
+    "identity": {
+      "familySeries": "T-FORCE DELTA RGB DDR5 CUDIMM",
+      "generation": "DDR5",
+      "launchPeriod": "2024-2025",
+      "launchYear": 2024,
+      "segment": "Extreme / Gaming",
+      "targetPlatform": "Intel Z890",
+      "notes": "Clocked DIMM variant"
+    },
+    "technical": {
+      "moduleType": "CUDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0",
+      "speedRangeText": "8200–9000+ MT/s",
+      "minSpeedMt": 8200,
+      "maxSpeedMt": 9000,
+      "typicalCapacitiesText": "48–96 GB kits",
+      "minTypicalCapacityGb": 48,
+      "maxTypicalCapacityGb": 96
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": false,
+      "cudimm": true
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|CUDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/delta-and-vulcan-ddr5-released/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0052",
+    "manufacturer": "Lexar",
+    "model": "ARES RGB 2nd Gen DDR5",
+    "identity": {
+      "familySeries": "ARES RGB 2nd Gen DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2025-2026",
+      "launchYear": 2025,
+      "segment": "Gaming / Enthusiast",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Second-generation ARES RGB"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP 3.0 / EXPO",
+      "speedRangeText": "6000–8000+ MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/products/Lexar-ARES-RGB-2nd-Gen-DDR5-Desktop-Memory/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0053",
+    "manufacturer": "Patriot",
+    "model": "Viper Steel 5 DDR5",
+    "identity": {
+      "familySeries": "Viper Steel 5 DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2025",
+      "launchYear": 2025,
+      "segment": "Performance / Enthusiast",
+      "targetPlatform": "Intel / AMD",
+      "notes": "New Steel generation"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "XMP / EXPO variants",
+      "speedRangeText": "High-performance DDR5",
+      "minSpeedMt": 5,
+      "maxSpeedMt": 5,
+      "typicalCapacitiesText": "32–128 GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 128
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": true,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": true,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.patriotmemory.com/newsroom/patriot-memory-to-unveil-next-gen-ai-memory-and-storage-infrastructure-at-computex-2026"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0054",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG NOVAKEY DDR5",
+    "identity": {
+      "familySeries": "XPG NOVAKEY DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2026",
+      "launchYear": 2026,
+      "segment": "Gaming / Enthusiast",
+      "targetPlatform": "Desktop DDR5",
+      "notes": "New 2026 XPG memory strategy family"
+    },
+    "technical": {
+      "moduleType": "UDIMM / next-gen",
+      "rgb": false,
+      "ocProfile": "Performance OC",
+      "speedRangeText": "Next-gen high-speed DDR5",
+      "minSpeedMt": 5,
+      "maxSpeedMt": 5,
+      "typicalCapacitiesText": "TBD / multiple",
+      "minTypicalCapacityGb": null,
+      "maxTypicalCapacityGb": null
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": false,
+      "intelTargeted": false,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM / next-gen"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://event.adata.com/CES2026/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0055",
+    "manufacturer": "Corsair",
+    "model": "SHUGO DDR5",
+    "identity": {
+      "familySeries": "SHUGO DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2026-05-26",
+      "launchYear": 2026,
+      "segment": "Limited Edition / Enthusiast",
+      "targetPlatform": "Desktop DDR5",
+      "notes": "Collectible design series"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "XMP / enthusiast",
+      "speedRangeText": "High-performance DDR5",
+      "minSpeedMt": 5,
+      "maxSpeedMt": 5,
+      "typicalCapacitiesText": "Enthusiast kits",
+      "minTypicalCapacityGb": null,
+      "maxTypicalCapacityGb": null
+    },
+    "capabilities": {
+      "xmpSupported": true,
+      "expoSupported": false,
+      "intelTargeted": false,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/corsair-reveals-shugo-ddr5-a-collectible-memory-series-built-around-patented-design-innovation-and-high-performance-ddr5"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0056",
+    "manufacturer": "G.SKILL",
+    "model": "Flare X5X",
+    "identity": {
+      "familySeries": "Flare X5X",
+      "generation": "DDR5",
+      "launchPeriod": "2026-08-31",
+      "launchYear": 2026,
+      "segment": "Mainstream / Performance",
+      "targetPlatform": "AMD AM5",
+      "notes": "EXPO Ultra Low Latency series"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "AMD EXPO ULL",
+      "speedRangeText": "6000 MT/s",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 6000,
+      "typicalCapacitiesText": "32 GB initial / more expected",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 32
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1788247311/G.SKILL-Launches-Flare-X5X-Series-DDR5-Memory-with-AMD-EXPO-Technology%3A-Featuring-Ultra-Low-Latency"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0057",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5 NeoX RGB",
+    "identity": {
+      "familySeries": "Trident Z5 NeoX RGB",
+      "generation": "DDR5",
+      "launchPeriod": "2026-06",
+      "launchYear": 2026,
+      "segment": "Enthusiast",
+      "targetPlatform": "AMD AM5",
+      "notes": "EXPO Ultra Low Latency generation"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "AMD EXPO ULL",
+      "speedRangeText": "6000 MT/s CL26–CL36",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 26,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1781085277/G.SKILL-Demos-Trident-Z5-NeoX-RGB-Series-DDR5-with-AMD-EXPO-Technology%3A-Featuring-Ultra-Low-Latency-at-Computex-2026-"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0058",
+    "manufacturer": "G.SKILL",
+    "model": "Trident Z5 Royal NeoX",
+    "identity": {
+      "familySeries": "Trident Z5 Royal NeoX",
+      "generation": "DDR5",
+      "launchPeriod": "2026-09-09",
+      "launchYear": 2026,
+      "segment": "Premium / Enthusiast",
+      "targetPlatform": "AMD AM5",
+      "notes": "Luxury EXPO ULL family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "AMD EXPO ULL",
+      "speedRangeText": "6000 MT/s CL26–CL36",
+      "minSpeedMt": 6000,
+      "maxSpeedMt": 26,
+      "typicalCapacitiesText": "32–64+ GB kits",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 64
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": true,
+      "intelTargeted": false,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.gskill.com/community/1502239313/1788943867/G.SKILL-Launches-Trident-Z5-Royal-NeoX-Series-DDR5-Memory-with-AMD-EXPO-Technology-Featuring-Ultra-Low-Latency"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0059",
+    "manufacturer": "Patriot",
+    "model": "Viper Steel 5 Infinite DDR5",
+    "identity": {
+      "familySeries": "Viper Steel 5 Infinite DDR5",
+      "generation": "DDR5",
+      "launchPeriod": "2026-06",
+      "launchYear": 2026,
+      "segment": "Flagship / Enthusiast",
+      "targetPlatform": "Desktop DDR5",
+      "notes": "Computex 2026 flagship memory"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "Extreme OC",
+      "speedRangeText": "High-performance DDR5",
+      "minSpeedMt": 5,
+      "maxSpeedMt": 5,
+      "typicalCapacitiesText": "High-capacity enthusiast kits",
+      "minTypicalCapacityGb": null,
+      "maxTypicalCapacityGb": null
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": false,
+      "intelTargeted": false,
+      "amdTargeted": false,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.patriotmemory.com/newsroom/patriot-memory-to-unveil-next-gen-ai-memory-and-storage-infrastructure-at-computex-2026"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0060",
+    "manufacturer": "TEAMGROUP",
+    "model": "ELITE DDR5 8000",
+    "identity": {
+      "familySeries": "ELITE DDR5 8000",
+      "generation": "DDR5",
+      "launchPeriod": "2026-06",
+      "launchYear": 2026,
+      "segment": "Mainstream / Standard",
+      "targetPlatform": "Intel / AMD",
+      "notes": "High-frequency JEDEC-standard desktop memory"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "JEDEC",
+      "speedRangeText": "8000 MT/s",
+      "minSpeedMt": 8000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32 GB (2x16) initial",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 2
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/elite-ddr5-8000/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0061",
+    "manufacturer": "TEAMGROUP",
+    "model": "ELITE PLUS DDR5 8000",
+    "identity": {
+      "familySeries": "ELITE PLUS DDR5 8000",
+      "generation": "DDR5",
+      "launchPeriod": "2026-06",
+      "launchYear": 2026,
+      "segment": "Mainstream / Standard",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Heatspreader-equipped 8000 MT/s line"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "JEDEC",
+      "speedRangeText": "8000 MT/s",
+      "minSpeedMt": 8000,
+      "maxSpeedMt": 8000,
+      "typicalCapacitiesText": "32 GB (2x16) initial",
+      "minTypicalCapacityGb": 32,
+      "maxTypicalCapacityGb": 2
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": false,
+      "gamingClass": false,
+      "mainstreamClass": true,
+      "highCapacityClass": false,
+      "highSpeedClass": true,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/elite-ddr5-8000/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0062",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE DELTA RGB DDR5 CARBON STYLE",
+    "identity": {
+      "familySeries": "T-FORCE DELTA RGB DDR5 CARBON STYLE",
+      "generation": "DDR5",
+      "launchPeriod": "2026-06",
+      "launchYear": 2026,
+      "segment": "Gaming / Enthusiast",
+      "targetPlatform": "Intel / AMD",
+      "notes": "10th-anniversary carbon-style family"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": true,
+      "ocProfile": "Dual-profile OC",
+      "speedRangeText": "High-performance DDR5",
+      "minSpeedMt": 5,
+      "maxSpeedMt": 5,
+      "typicalCapacitiesText": "Up to 128 GB (2x64)",
+      "minTypicalCapacityGb": 128,
+      "maxTypicalCapacityGb": 2
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": true,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/computex-2026/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "RAM-0063",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE XTREEM DDR5 CARBON STYLE",
+    "identity": {
+      "familySeries": "T-FORCE XTREEM DDR5 CARBON STYLE",
+      "generation": "DDR5",
+      "launchPeriod": "2026-06",
+      "launchYear": 2026,
+      "segment": "Extreme / Enthusiast",
+      "targetPlatform": "Intel / AMD",
+      "notes": "Carbon-style XTREEM generation"
+    },
+    "technical": {
+      "moduleType": "UDIMM",
+      "rgb": false,
+      "ocProfile": "Dual-profile OC",
+      "speedRangeText": "High-performance DDR5",
+      "minSpeedMt": 5,
+      "maxSpeedMt": 5,
+      "typicalCapacitiesText": "Up to 128 GB (2x64)",
+      "minTypicalCapacityGb": 128,
+      "maxTypicalCapacityGb": 2
+    },
+    "capabilities": {
+      "xmpSupported": false,
+      "expoSupported": false,
+      "intelTargeted": true,
+      "amdTargeted": true,
+      "cudimm": false
+    },
+    "derivedBase": {
+      "enthusiastClass": true,
+      "gamingClass": false,
+      "mainstreamClass": false,
+      "highCapacityClass": false,
+      "highSpeedClass": false,
+      "compatibilityKey": "DDR5|UDIMM"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/computex-2026/"
+      ],
+      "sourceScope": "RAM List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  }
+]
