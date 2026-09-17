@@ -1,0 +1,3694 @@
+[
+  {
+    "id": "STO-0001",
+    "manufacturer": "ADATA / XPG",
+    "model": "ADATA LEGEND 840",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "Mainstream",
+      "notes": "Gen4 mainstream model"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "512 GB–1 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 1000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.adata.com/us/consumer/category/ssds/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0002",
+    "manufacturer": "ADATA / XPG",
+    "model": "XPG GAMMIX S70 BLADE",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "High-end / Gaming",
+      "notes": "Popular slim-heatsink Gen4 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "512 GB–8 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 7400,
+      "maxWriteMbS": 6800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.adata.com/us/consumer/category/ssds/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0003",
+    "manufacturer": "Crucial",
+    "model": "P5 Plus",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "Performance",
+      "notes": "Crucial first major consumer Gen4 family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "500 GB–2 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 6600,
+      "maxWriteMbS": 5000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0004",
+    "manufacturer": "Kingston",
+    "model": "FURY Renegade SSD",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021-11",
+      "launchYear": 2021,
+      "segment": "Gaming / Enthusiast",
+      "notes": "Gaming-focused Gen4 flagship"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7300,
+      "maxWriteMbS": 7000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/64924"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0005",
+    "manufacturer": "Kingston",
+    "model": "KC3000",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021-10",
+      "launchYear": 2021,
+      "segment": "High-end / Workstation",
+      "notes": "High-performance Gen4 family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "512 GB–4 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7000,
+      "maxWriteMbS": 7000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/company/press/article/64751"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0006",
+    "manufacturer": "Lexar",
+    "model": "NM760",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021-2022",
+      "launchYear": 2021,
+      "segment": "Mainstream",
+      "notes": "Early Lexar Gen4 family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "512 GB–2 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 5300,
+      "maxWriteMbS": 4500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/products/ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0007",
+    "manufacturer": "Samsung",
+    "model": "870 EVO",
+    "identity": {
+      "storageType": "SATA SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "Mainstream SATA",
+      "notes": "Major Samsung SATA refresh"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "2.5-inch",
+      "nandOrRecording": "TLC V-NAND",
+      "dramDescription": "Yes",
+      "capacityRangeText": "250 GB–4 TB",
+      "minCapacityGb": 250,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 560,
+      "maxWriteMbS": 530
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": true,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|2.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://semiconductor.samsung.com/consumer-storage/internal-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0008",
+    "manufacturer": "Samsung",
+    "model": "870 QVO 8TB",
+    "identity": {
+      "storageType": "SATA SSD",
+      "launchPeriod": "2021 capacity expansion",
+      "launchYear": 2021,
+      "segment": "High-capacity SATA",
+      "notes": "8TB retail expansion during period"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "2.5-inch",
+      "nandOrRecording": "QLC V-NAND",
+      "dramDescription": "Yes",
+      "capacityRangeText": "8 TB",
+      "minCapacityGb": 8000,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 560,
+      "maxWriteMbS": 530
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": true,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|2.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://semiconductor.samsung.com/consumer-storage/internal-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0009",
+    "manufacturer": "Samsung",
+    "model": "980 1TB/500GB",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "Mainstream",
+      "notes": "DRAM-less PCIe 3.0 consumer line"
+    },
+    "technical": {
+      "interface": "PCIe 3.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 3.0 x4 / NVMe",
+      "pcieGeneration": "3.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC V-NAND",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "250 GB–1 TB",
+      "minCapacityGb": 250,
+      "maxCapacityGb": 1000,
+      "maxReadMbS": 3500,
+      "maxWriteMbS": 3000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 3.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://semiconductor.samsung.com/consumer-storage/internal-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0010",
+    "manufacturer": "Samsung",
+    "model": "980 PRO with Heatsink",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "High-end / Gaming",
+      "notes": "Heatsink retail variant for PS5/PC"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC V-NAND",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–2 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 7000,
+      "maxWriteMbS": 5100
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://semiconductor.samsung.com/consumer-storage/internal-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0011",
+    "manufacturer": "Seagate",
+    "model": "FireCuda 530",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021-06",
+      "launchYear": 2021,
+      "segment": "Gaming / Enthusiast",
+      "notes": "High-end Gen4 gaming SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7300,
+      "maxWriteMbS": 6900
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.seagate.com/stories/articles/seagate-unlocks-the-next-level-of-performance-with-the-firecuda-530-pcie-gen4-nvme-ssd-master-pr/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0012",
+    "manufacturer": "Seagate",
+    "model": "FireCuda 530 Heatsink",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "Gaming / PS5",
+      "notes": "Heatsink retail variant"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7300,
+      "maxWriteMbS": 6900
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.seagate.com/stories/articles/seagate-unlocks-the-next-level-of-performance-with-the-firecuda-530-pcie-gen4-nvme-ssd-master-pr/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0013",
+    "manufacturer": "Seagate",
+    "model": "FireCuda 8TB HDD",
+    "identity": {
+      "storageType": "HDD",
+      "launchPeriod": "2021-2022",
+      "launchYear": 2021,
+      "segment": "Gaming HDD",
+      "notes": "High-capacity FireCuda HDD generation"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "3.5-inch",
+      "nandOrRecording": "CMR",
+      "dramDescription": "N/A",
+      "capacityRangeText": "8 TB",
+      "minCapacityGb": 8000,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 260,
+      "maxWriteMbS": 260
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": false,
+      "hdd": true,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": false,
+      "cmr": true
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|3.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.seagate.com/products/hard-drives/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0014",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE CARDEA A440 PRO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "High-end / Gaming",
+      "notes": "Fast Gen4 gaming family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7400,
+      "maxWriteMbS": 7000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/products/ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0015",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE CARDEA Z44Q",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "Mainstream / High capacity",
+      "notes": "QLC Gen4 family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "QLC",
+      "dramDescription": "Yes / varies",
+      "capacityRangeText": "2–4 TB",
+      "minCapacityGb": 2000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/products/ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0016",
+    "manufacturer": "Western Digital",
+    "model": "WD_BLACK 8TB Gaming HDD",
+    "identity": {
+      "storageType": "HDD",
+      "launchPeriod": "2021-2022 refresh",
+      "launchYear": 2021,
+      "segment": "Gaming / Performance HDD",
+      "notes": "Curated capacity generation, not every capacity"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "3.5-inch",
+      "nandOrRecording": "CMR",
+      "dramDescription": "N/A",
+      "capacityRangeText": "8 TB",
+      "minCapacityGb": 8000,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 250,
+      "maxWriteMbS": 250
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": false,
+      "hdd": true,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": false,
+      "cmr": true
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|3.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0017",
+    "manufacturer": "Western Digital",
+    "model": "WD_BLACK SN850 SE",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2021",
+      "launchYear": 2021,
+      "segment": "Gaming",
+      "notes": "Lower-cost SN850-derived gaming SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Varies",
+      "capacityRangeText": "500 GB–1 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 1000,
+      "maxReadMbS": 3600,
+      "maxWriteMbS": 2830
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0018",
+    "manufacturer": "ADATA / XPG",
+    "model": "ADATA LEGEND 960",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "High-end",
+      "notes": "Fast Gen4 line"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7400,
+      "maxWriteMbS": 6800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.adata.com/us/consumer/category/ssds/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0019",
+    "manufacturer": "Corsair",
+    "model": "MP600 GS",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream",
+      "notes": "DRAM-less Gen4"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–2 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 4800,
+      "maxWriteMbS": 4500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/us/en/c/data-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0020",
+    "manufacturer": "Corsair",
+    "model": "MP600 PRO LPX",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Gaming / PS5",
+      "notes": "Low-profile heatsink model"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "500 GB–8 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 7100,
+      "maxWriteMbS": 6800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/us/en/c/data-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0021",
+    "manufacturer": "Crucial",
+    "model": "P3",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Budget / Mainstream",
+      "notes": "High-capacity value SSD"
+    },
+    "technical": {
+      "interface": "PCIe 3.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 3.0 x4 / NVMe",
+      "pcieGeneration": "3.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "QLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 3500,
+      "maxWriteMbS": 3000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 3.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0022",
+    "manufacturer": "Crucial",
+    "model": "P3 Plus",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Budget / Mainstream",
+      "notes": "Affordable Gen4 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "QLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4200
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0023",
+    "manufacturer": "Kingston",
+    "model": "NV2",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Budget",
+      "notes": "Entry Gen4 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC / QLC varies",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "250 GB–4 TB",
+      "minCapacityGb": 250,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 3500,
+      "maxWriteMbS": 2800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0024",
+    "manufacturer": "Sabrent",
+    "model": "Rocket 2230",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022-2023",
+      "launchYear": 2022,
+      "segment": "Handheld / Compact",
+      "notes": "Popular handheld SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2230",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "256 GB–2 TB",
+      "minCapacityGb": 256,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": true,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2230"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://sabrent.com/collections/memory-and-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0025",
+    "manufacturer": "Sabrent",
+    "model": "Rocket 4 Plus-G",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "High-end / Gaming",
+      "notes": "DirectStorage-oriented Gen4 family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7000,
+      "maxWriteMbS": 6850
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://sabrent.com/collections/memory-and-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0026",
+    "manufacturer": "Samsung",
+    "model": "990 PRO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022-08",
+      "launchYear": 2022,
+      "segment": "Enthusiast",
+      "notes": "Flagship PCIe 4.0 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC V-NAND",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7450,
+      "maxWriteMbS": 6900
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://news.samsung.com/global/samsung-electronics-unveils-high-performance-990-pro-ssd-optimized-for-gaming-and-creative-applications"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0027",
+    "manufacturer": "Seagate",
+    "model": "IronWolf 20TB",
+    "identity": {
+      "storageType": "HDD",
+      "launchPeriod": "2022-2023 capacity generation",
+      "launchYear": 2022,
+      "segment": "NAS / Prosumer",
+      "notes": "Large-capacity IronWolf generation"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "3.5-inch",
+      "nandOrRecording": "CMR",
+      "dramDescription": "N/A",
+      "capacityRangeText": "20 TB",
+      "minCapacityGb": 20000,
+      "maxCapacityGb": 20000,
+      "maxReadMbS": 285,
+      "maxWriteMbS": 285
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": false,
+      "hdd": true,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": false,
+      "cmr": true
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|3.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.seagate.com/products/hard-drives/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0028",
+    "manufacturer": "Solidigm",
+    "model": "P41 Plus",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Budget / Mainstream",
+      "notes": "Value Gen4 family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "QLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "512 GB–2 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 4125,
+      "maxWriteMbS": 3325
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://news.solidigm.com/en-WW/219296-solidigm-introduces-the-p44-pro-the-world-s-premier-enthusiast-solid-state-drive-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0029",
+    "manufacturer": "Solidigm",
+    "model": "P44 Pro",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022-10",
+      "launchYear": 2022,
+      "segment": "High-end",
+      "notes": "Enthusiast Gen4 client SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "512 GB–2 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 7000,
+      "maxWriteMbS": 6500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://news.solidigm.com/en-WW/219296-solidigm-introduces-the-p44-pro-the-world-s-premier-enthusiast-solid-state-drive-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0030",
+    "manufacturer": "TEAMGROUP",
+    "model": "MP44L",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream",
+      "notes": "Efficient DRAM-less Gen4"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "250 GB–2 TB",
+      "minCapacityGb": 250,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/products/ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0031",
+    "manufacturer": "Western Digital",
+    "model": "WD_BLACK SN770",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "Mainstream / Gaming",
+      "notes": "Popular DRAM-less Gen4 model"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "250 GB–2 TB",
+      "minCapacityGb": 250,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 5150,
+      "maxWriteMbS": 4900
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0032",
+    "manufacturer": "Western Digital",
+    "model": "WD_BLACK SN850X",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2022",
+      "launchYear": 2022,
+      "segment": "High-end / Gaming",
+      "notes": "Flagship Gen4 gaming SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–8 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 7300,
+      "maxWriteMbS": 6600
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0033",
+    "manufacturer": "ADATA / XPG",
+    "model": "ADATA LEGEND 970",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Enthusiast",
+      "notes": "Active-cooled Gen5 model"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–2 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 10000,
+      "maxWriteMbS": 10000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.adata.com/us/consumer/category/ssds/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0034",
+    "manufacturer": "Corsair",
+    "model": "MP600 CORE XT",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Budget / Mainstream",
+      "notes": "High-capacity value Gen4"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "QLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4400
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/us/en/c/data-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0035",
+    "manufacturer": "Corsair",
+    "model": "MP700",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Enthusiast",
+      "notes": "First Corsair Gen5 family"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–2 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 10000,
+      "maxWriteMbS": 9500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/us/en/c/data-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0036",
+    "manufacturer": "Corsair",
+    "model": "MP700 PRO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023-11",
+      "launchYear": 2023,
+      "segment": "Extreme / Enthusiast",
+      "notes": "Higher-performance Gen5 family"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 12400,
+      "maxWriteMbS": 11800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/phenomenal-pcie-gen5-ssd-performance-corsair-launches-mp700-pro-pcie-5-0-x4-m-2-ssds"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0037",
+    "manufacturer": "Crucial",
+    "model": "BX500 4TB",
+    "identity": {
+      "storageType": "SATA SSD",
+      "launchPeriod": "2023 capacity expansion",
+      "launchYear": 2023,
+      "segment": "Budget SATA",
+      "notes": "High-capacity BX500 SKU expansion"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "2.5-inch",
+      "nandOrRecording": "QLC/TLC by capacity",
+      "dramDescription": "No",
+      "capacityRangeText": "4 TB",
+      "minCapacityGb": 4000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 540,
+      "maxWriteMbS": 500
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": true,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|2.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0038",
+    "manufacturer": "Crucial",
+    "model": "T500",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "High-end",
+      "notes": "Late-generation Gen4 performance SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "500 GB–2 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 7400,
+      "maxWriteMbS": 7000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0039",
+    "manufacturer": "Crucial",
+    "model": "T700",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Enthusiast",
+      "notes": "Early high-performance Gen5 family"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 12400,
+      "maxWriteMbS": 11800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0040",
+    "manufacturer": "Lexar",
+    "model": "NM790",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023-05",
+      "launchYear": 2023,
+      "segment": "Upper mainstream / Gaming",
+      "notes": "High-performance DRAM-less Gen4"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "512 GB–4 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7400,
+      "maxWriteMbS": 6500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/news/Lexar-Announces-Neq-NM790-SSD/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0041",
+    "manufacturer": "Lexar",
+    "model": "NM790 with Heatsink",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023-11",
+      "launchYear": 2023,
+      "segment": "Gaming / PS5",
+      "notes": "Heatsink version"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7400,
+      "maxWriteMbS": 6500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/news/Lexar-Announces-Neq-NM790-SSD/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0042",
+    "manufacturer": "Seagate",
+    "model": "FireCuda 520N",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Handheld / Compact",
+      "notes": "2230 gaming/handheld SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2230",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No / HMB",
+      "capacityRangeText": "1–2 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": true,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2230"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.seagate.com/products/gaming-drives/pc-gaming/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0043",
+    "manufacturer": "Seagate",
+    "model": "FireCuda 540",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023-06",
+      "launchYear": 2023,
+      "segment": "Enthusiast",
+      "notes": "Seagate Gen5 flagship"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–2 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 10000,
+      "maxWriteMbS": 10000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://investors.seagate.com/news/news-details/2023/Seagate-FireCuda-540-PCIe-Gen5-NVMe-SSD-Sets-New-Playing-Field-with-Unprecedented-Performance/default.aspx"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0044",
+    "manufacturer": "TEAMGROUP",
+    "model": "MP44",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Upper mainstream",
+      "notes": "High-performance DRAM-less Gen4"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "512 GB–8 TB",
+      "minCapacityGb": 512,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 7400,
+      "maxWriteMbS": 7000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/products/ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0045",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE CARDEA Z540",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Enthusiast",
+      "notes": "Early TeamGroup Gen5 line"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 12000,
+      "maxWriteMbS": 10000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/products/ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0046",
+    "manufacturer": "Western Digital",
+    "model": "WD Blue SN580",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Mainstream",
+      "notes": "General-purpose Gen4 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "250 GB–2 TB",
+      "minCapacityGb": 250,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 4150,
+      "maxWriteMbS": 4150
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0047",
+    "manufacturer": "Western Digital",
+    "model": "WD_BLACK SN770M",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2023",
+      "launchYear": 2023,
+      "segment": "Handheld / Compact",
+      "notes": "2230 SSD for handheld PCs"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2230",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–2 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 5150,
+      "maxWriteMbS": 4850
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": true,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2230"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0048",
+    "manufacturer": "ADATA / XPG",
+    "model": "ADATA LEGEND 970 PRO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "notes": "Higher-speed Gen5 successor"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14000,
+      "maxWriteMbS": 12000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://event.adata.com/computex2024/en"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0049",
+    "manufacturer": "Corsair",
+    "model": "MP700 ELITE",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024-11",
+      "launchYear": 2024,
+      "segment": "Upper mainstream / Gen5",
+      "notes": "More affordable Gen5 family"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "1–2 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 10000,
+      "maxWriteMbS": 8500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/corsair-releases-mp700-elite-series-pcie-5-0-m-2-ssds-delivering-high-performance-for-your-applications"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0050",
+    "manufacturer": "Corsair",
+    "model": "MP700 PRO SE",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "notes": "Faster MP700 Pro generation"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "2–4 TB",
+      "minCapacityGb": 2000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14000,
+      "maxWriteMbS": 12000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/us/en/c/data-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0051",
+    "manufacturer": "Crucial",
+    "model": "P310 2230",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Handheld / Compact",
+      "notes": "Compact Gen4 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2230",
+      "nandOrRecording": "QLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–2 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 7100,
+      "maxWriteMbS": 6000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": true,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2230"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0052",
+    "manufacturer": "Crucial",
+    "model": "P310 2280",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Mainstream",
+      "notes": "2280 extension of P310 family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "QLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–2 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 7100,
+      "maxWriteMbS": 6000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": false,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0053",
+    "manufacturer": "Crucial",
+    "model": "T705",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "notes": "Faster T700 successor"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14500,
+      "maxWriteMbS": 12700
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0054",
+    "manufacturer": "Kingston",
+    "model": "NV3",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Budget / Mainstream",
+      "notes": "NV2 successor"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "3D NAND",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 6000,
+      "maxWriteMbS": 5000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": false,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/en/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0055",
+    "manufacturer": "Lexar",
+    "model": "NM1090",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Enthusiast",
+      "notes": "Early Lexar Gen5 family"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 12000,
+      "maxWriteMbS": 11000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/products/ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0056",
+    "manufacturer": "Sabrent",
+    "model": "Rocket 5",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "notes": "High-speed Gen5 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14000,
+      "maxWriteMbS": 12000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://sabrent.com/collections/memory-and-storage"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0057",
+    "manufacturer": "Samsung",
+    "model": "990 EVO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Mainstream",
+      "notes": "Hybrid Gen4 x4 / Gen5 x2 interface support"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / PCIe 5.0 x2",
+      "interfaceFamily": "PCIe 4.0 x4 / PCIe 5.0 x2",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC V-NAND",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "1–2 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 2000,
+      "maxReadMbS": 5000,
+      "maxWriteMbS": 4200
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 4.0 x4 / PCIe 5.0 x2|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://semiconductor.samsung.com/consumer-storage/internal-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0058",
+    "manufacturer": "Samsung",
+    "model": "990 EVO Plus",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Upper mainstream",
+      "notes": "Faster EVO refresh"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / PCIe 5.0 x2",
+      "interfaceFamily": "PCIe 4.0 x4 / PCIe 5.0 x2",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC V-NAND",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7250,
+      "maxWriteMbS": 6300
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / PCIe 5.0 x2|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://semiconductor.samsung.com/consumer-storage/internal-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0059",
+    "manufacturer": "Seagate",
+    "model": "IronWolf Pro 24TB",
+    "identity": {
+      "storageType": "HDD",
+      "launchPeriod": "2024 capacity generation",
+      "launchYear": 2024,
+      "segment": "NAS / Prosumer",
+      "notes": "High-capacity IronWolf Pro generation"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "3.5-inch",
+      "nandOrRecording": "CMR",
+      "dramDescription": "N/A",
+      "capacityRangeText": "24 TB",
+      "minCapacityGb": 24000,
+      "maxCapacityGb": 24000,
+      "maxReadMbS": 285,
+      "maxWriteMbS": 285
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": false,
+      "hdd": true,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": false,
+      "cmr": true
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|3.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.seagate.com/products/hard-drives/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0060",
+    "manufacturer": "TEAMGROUP",
+    "model": "T-FORCE GE PRO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024-01",
+      "launchYear": 2024,
+      "segment": "Extreme / Enthusiast",
+      "notes": "High-speed Gen5 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes / controller dependent",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14000,
+      "maxWriteMbS": 11800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.teamgroupinc.com/en/news-detail/teamgroup-t-force-ge-pro-pcie-gen-ssd/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0061",
+    "manufacturer": "Western Digital",
+    "model": "WD Blue SN5000",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2024",
+      "launchYear": 2024,
+      "segment": "Mainstream",
+      "notes": "Creator/general-purpose family"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC / QLC by capacity",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 5500,
+      "maxWriteMbS": 5000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": true,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0062",
+    "manufacturer": "Western Digital",
+    "model": "WD Red Plus 20TB",
+    "identity": {
+      "storageType": "HDD",
+      "launchPeriod": "2024 capacity generation",
+      "launchYear": 2024,
+      "segment": "NAS / Prosumer",
+      "notes": "Large-capacity NAS drive generation"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "3.5-inch",
+      "nandOrRecording": "CMR",
+      "dramDescription": "N/A",
+      "capacityRangeText": "20 TB",
+      "minCapacityGb": 20000,
+      "maxCapacityGb": 20000,
+      "maxReadMbS": 270,
+      "maxWriteMbS": 270
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": false,
+      "hdd": true,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": false,
+      "cmr": true
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|3.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0063",
+    "manufacturer": "Western Digital",
+    "model": "WD Red Pro 24TB",
+    "identity": {
+      "storageType": "HDD",
+      "launchPeriod": "2024 capacity generation",
+      "launchYear": 2024,
+      "segment": "NAS / Prosumer",
+      "notes": "High-capacity Red Pro generation"
+    },
+    "technical": {
+      "interface": "SATA III 6Gb/s",
+      "interfaceFamily": "SATA",
+      "pcieGeneration": "",
+      "formFactor": "3.5-inch",
+      "nandOrRecording": "CMR",
+      "dramDescription": "N/A",
+      "capacityRangeText": "24 TB",
+      "minCapacityGb": 24000,
+      "maxCapacityGb": 24000,
+      "maxReadMbS": 287,
+      "maxWriteMbS": 287
+    },
+    "capabilities": {
+      "nvme": false,
+      "sataSsd": false,
+      "hdd": true,
+      "hasDram": false,
+      "hostMemoryBuffer": false,
+      "tlc": false,
+      "qlc": false,
+      "cmr": true
+    },
+    "derivedBase": {
+      "highSpeedClass": false,
+      "extremeSpeedClass": false,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "SATA|3.5-inch"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0064",
+    "manufacturer": "Corsair",
+    "model": "MP700 MICRO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025-10",
+      "launchYear": 2025,
+      "segment": "Compact / SFF",
+      "notes": "Compact 2242 Gen5 family"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2242",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "2–4 TB",
+      "minCapacityGb": 2000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 10000,
+      "maxWriteMbS": 8500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": true,
+      "ps5PerformanceClass": false,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2242"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/corsair-releases-top-of-class-pcie-5-0-ssd-and-adds-4tb-option-in-m-2-2242-size"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0065",
+    "manufacturer": "Corsair",
+    "model": "MP700 PRO XT",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025-10",
+      "launchYear": 2025,
+      "segment": "Extreme / Enthusiast",
+      "notes": "Top-speed Corsair Gen5"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14900,
+      "maxWriteMbS": 14500
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.corsair.com/newsroom/press-release/corsair-releases-top-of-class-pcie-5-0-ssd-and-adds-4tb-option-in-m-2-2242-size"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0066",
+    "manufacturer": "Crucial",
+    "model": "T710",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025",
+      "launchYear": 2025,
+      "segment": "Extreme / Enthusiast",
+      "notes": "Next-gen Gen5 flagship"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14900,
+      "maxWriteMbS": 13800
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.crucial.com/catalog/ssd"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0067",
+    "manufacturer": "Kingston",
+    "model": "FURY Renegade G5",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025-05",
+      "launchYear": 2025,
+      "segment": "Extreme / Enthusiast",
+      "notes": "Kingston flagship Gen5 SSD"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–8 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 14800,
+      "maxWriteMbS": 14000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.kingston.com/unitedkingdom/en/company/press/article/76637"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0068",
+    "manufacturer": "Lexar",
+    "model": "NM990",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025-07",
+      "launchYear": 2025,
+      "segment": "Enthusiast / Creator",
+      "notes": "Next-gen high-speed Gen5"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "1–4 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 14000,
+      "maxWriteMbS": 11000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.lexar.com/global/news/Lexar-Launches-the-NM990-PCIe-5-0-SSD/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0069",
+    "manufacturer": "Samsung",
+    "model": "9100 PRO",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025",
+      "launchYear": 2025,
+      "segment": "Enthusiast / Workstation",
+      "notes": "Samsung flagship Gen5 family"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC V-NAND",
+      "dramDescription": "Yes",
+      "capacityRangeText": "1–8 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 14800,
+      "maxWriteMbS": 13400
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap1t0b-am/"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0070",
+    "manufacturer": "Western Digital",
+    "model": "WD_BLACK SN7100",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025",
+      "launchYear": 2025,
+      "segment": "Upper mainstream / Gaming",
+      "notes": "High-end DRAM-less Gen4 generation"
+    },
+    "technical": {
+      "interface": "PCIe 4.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 4.0 x4 / NVMe",
+      "pcieGeneration": "4.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "No (HMB)",
+      "capacityRangeText": "500 GB–4 TB",
+      "minCapacityGb": 500,
+      "maxCapacityGb": 4000,
+      "maxReadMbS": 7250,
+      "maxWriteMbS": 6900
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": false,
+      "hostMemoryBuffer": true,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": false,
+      "highCapacityClass": false,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 4.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  },
+  {
+    "id": "STO-0071",
+    "manufacturer": "Western Digital",
+    "model": "WD_BLACK SN8100",
+    "identity": {
+      "storageType": "NVMe SSD",
+      "launchPeriod": "2025",
+      "launchYear": 2025,
+      "segment": "Enthusiast / Gaming",
+      "notes": "Gen5 flagship generation"
+    },
+    "technical": {
+      "interface": "PCIe 5.0 x4 / NVMe",
+      "interfaceFamily": "PCIe 5.0 x4 / NVMe",
+      "pcieGeneration": "5.0",
+      "formFactor": "M.2 2280",
+      "nandOrRecording": "TLC",
+      "dramDescription": "Yes / controller cache",
+      "capacityRangeText": "1–8 TB",
+      "minCapacityGb": 1000,
+      "maxCapacityGb": 8000,
+      "maxReadMbS": 14900,
+      "maxWriteMbS": 14000
+    },
+    "capabilities": {
+      "nvme": true,
+      "sataSsd": false,
+      "hdd": false,
+      "hasDram": true,
+      "hostMemoryBuffer": false,
+      "tlc": true,
+      "qlc": false,
+      "cmr": false
+    },
+    "derivedBase": {
+      "highSpeedClass": true,
+      "extremeSpeedClass": true,
+      "highCapacityClass": true,
+      "compactFormFactor": false,
+      "ps5PerformanceClass": true,
+      "compatibilityKey": "PCIe 5.0 x4 / NVMe|M.2 2280"
+    },
+    "metadata": {
+      "sourceUrls": [
+        "https://www.westerndigital.com/products/internal-drives"
+      ],
+      "sourceScope": "Storage List 2021-2026.xlsx",
+      "identityConfidence": "HIGH",
+      "technicalConfidence": "HIGH",
+      "verifiedAt": "2026-09-17"
+    }
+  }
+]
